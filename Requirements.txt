@@ -16,3 +16,4 @@ geopandas[all]
 mapclassify
 folium
 streamlit-folium
+googlemaps
