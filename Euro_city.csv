@@ -1,0 +1,1333 @@
+﻿Country_from,City_from,Lat_from,Long_from,Country_to,City_to,Lat_to,Long_to,Distance_km,Distance_mi
+Greece,Athens,37.9838,23.7275,Portugal,Lisbon,38.7169,-9.1399,4578,2844.64
+Portugal,Lisbon,38.7169,-9.1399,Greece,Athens,37.9838,23.7275,4578,2844.64
+Greece,Athens,37.9838,23.7275,Spain,Madrid,40.4168,-3.7038,3940,2448.20
+Spain,Madrid,40.4168,-3.7038,Greece,Athens,37.9838,23.7275,3940,2448.20
+Greece,Athens,37.9838,23.7275,United Kingdom,Edinburgh,55.9533,-3.1883,3768,2341.33
+United Kingdom,Edinburgh,55.9533,-3.1883,Greece,Athens,37.9838,23.7275,3768,2341.33
+France,Le Havre,49.4944,0.1079,Greece,Athens,37.9838,23.7275,3494,2171.07
+Greece,Athens,37.9838,23.7275,France,Le Havre,49.4944,0.1079,3494,2171.07
+Denmark,Copenhagen,55.6761,12.5683,Greece,Athens,37.9838,23.7275,3414,2121.36
+Greece,Athens,37.9838,23.7275,Denmark,Copenhagen,55.6761,12.5683,3414,2121.36
+Greece,Athens,37.9838,23.7275,Spain,Barcelona,41.3851,2.1734,3312,2057.98
+Spain,Barcelona,41.3851,2.1734,Greece,Athens,37.9838,23.7275,3312,2057.98
+Austria,Vienna,48.2082,16.3738,Portugal,Lisbon,38.7169,-9.1399,3255,2022.56
+Portugal,Lisbon,38.7169,-9.1399,Austria,Vienna,48.2082,16.3738,3255,2022.56
+Germany,Berlin,52.52,13.405,Portugal,Lisbon,38.7169,-9.1399,3165,1966.64
+Portugal,Lisbon,38.7169,-9.1399,Germany,Berlin,52.52,13.405,3165,1966.64
+France,Paris,48.8566,2.3522,Greece,Athens,37.9838,23.7275,3140,1951.10
+Greece,Athens,37.9838,23.7275,France,Paris,48.8566,2.3522,3140,1951.10
+Denmark,Copenhagen,55.6761,12.5683,Portugal,Lisbon,38.7169,-9.1399,3115,1935.57
+Portugal,Lisbon,38.7169,-9.1399,Denmark,Copenhagen,55.6761,12.5683,3115,1935.57
+Greece,Athens,37.9838,23.7275,United Kingdom,London,51.5074,-0.1278,3099,1925.63
+United Kingdom,London,51.5074,-0.1278,Greece,Athens,37.9838,23.7275,3099,1925.63
+Greece,Athens,37.9838,23.7275,Netherlands,Amsterdam,52.3676,4.9041,3082,1915.07
+Netherlands,Amsterdam,52.3676,4.9041,Greece,Athens,37.9838,23.7275,3082,1915.07
+Greece,Athens,37.9838,23.7275,Netherlands,The Hague,52.0705,4.3007,3061,1902.02
+Netherlands,The Hague,52.0705,4.3007,Greece,Athens,37.9838,23.7275,3061,1902.02
+Belgium,Brussels,50.8503,4.3517,Greece,Athens,37.9838,23.7275,3021,1877.16
+Greece,Athens,37.9838,23.7275,Belgium,Brussels,50.8503,4.3517,3021,1877.16
+France,Marseille,43.2965,5.3698,Greece,Athens,37.9838,23.7275,2997,1862.25
+Greece,Athens,37.9838,23.7275,France,Marseille,43.2965,5.3698,2997,1862.25
+France,Calais,50.9513,1.8587,Greece,Athens,37.9838,23.7275,2976,1849.20
+Greece,Athens,37.9838,23.7275,France,Calais,50.9513,1.8587,2976,1849.20
+Italy,Naples,40.8518,14.2681,Portugal,Lisbon,38.7169,-9.1399,2970,1845.47
+Portugal,Lisbon,38.7169,-9.1399,Italy,Naples,40.8518,14.2681,2970,1845.47
+Czech Republic,Prague,50.0755,14.4378,Portugal,Lisbon,38.7169,-9.1399,2945,1829.94
+Portugal,Lisbon,38.7169,-9.1399,Czech Republic,Prague,50.0755,14.4378,2945,1829.94
+Portugal,Lisbon,38.7169,-9.1399,United Kingdom,Edinburgh,55.9533,-3.1883,2879,1788.93
+United Kingdom,Edinburgh,55.9533,-3.1883,Portugal,Lisbon,38.7169,-9.1399,2879,1788.93
+Greece,Athens,37.9838,23.7275,Netherlands,Rotterdam,51.9225,4.4792,2826,1755.99
+Netherlands,Rotterdam,51.9225,4.4792,Greece,Athens,37.9838,23.7275,2826,1755.99
+Greece,Athens,37.9838,23.7275,Italy,Naples,40.8518,14.2681,2784,1729.90
+Italy,Naples,40.8518,14.2681,Greece,Athens,37.9838,23.7275,2784,1729.90
+France,Lyon,45.764,4.8357,Greece,Athens,37.9838,23.7275,2774,1723.68
+Greece,Athens,37.9838,23.7275,France,Lyon,45.764,4.8357,2774,1723.68
+Belgium,Antwerp,51.2194,4.4025,Greece,Athens,37.9838,23.7275,2766,1718.71
+Greece,Athens,37.9838,23.7275,Belgium,Antwerp,51.2194,4.4025,2766,1718.71
+Germany,Hamburg,53.5511,9.9937,Greece,Athens,37.9838,23.7275,2758,1713.74
+Greece,Athens,37.9838,23.7275,Germany,Hamburg,53.5511,9.9937,2758,1713.74
+Greece,Athens,37.9838,23.7275,Luxembourg,Luxembourg,49.6117,6.1319,2744,1705.04
+Luxembourg,Luxembourg,49.6117,6.1319,Greece,Athens,37.9838,23.7275,2744,1705.04
+Italy,Rome,41.9028,12.4964,Portugal,Lisbon,38.7169,-9.1399,2737,1700.69
+Portugal,Lisbon,38.7169,-9.1399,Italy,Rome,41.9028,12.4964,2737,1700.69
+Greece,Athens,37.9838,23.7275,Switzerland,Geneva,46.2044,6.1432,2692,1672.73
+Switzerland,Geneva,46.2044,6.1432,Greece,Athens,37.9838,23.7275,2692,1672.73
+Germany,Hamburg,53.5511,9.9937,Portugal,Lisbon,38.7169,-9.1399,2666,1656.58
+Portugal,Lisbon,38.7169,-9.1399,Germany,Hamburg,53.5511,9.9937,2666,1656.58
+Italy,Naples,40.8518,14.2681,United Kingdom,Edinburgh,55.9533,-3.1883,2664,1655.33
+United Kingdom,Edinburgh,55.9533,-3.1883,Italy,Naples,40.8518,14.2681,2664,1655.33
+Greece,Athens,37.9838,23.7275,Switzerland,Bern,46.9481,7.4474,2627,1632.34
+Switzerland,Bern,46.9481,7.4474,Greece,Athens,37.9838,23.7275,2627,1632.34
+Austria,Vienna,48.2082,16.3738,Spain,Madrid,40.4168,-3.7038,2617,1626.13
+Spain,Madrid,40.4168,-3.7038,Austria,Vienna,48.2082,16.3738,2617,1626.13
+Denmark,Copenhagen,55.6761,12.5683,Spain,Madrid,40.4168,-3.7038,2597,1613.70
+Spain,Madrid,40.4168,-3.7038,Denmark,Copenhagen,55.6761,12.5683,2597,1613.70
+Italy,Venice,45.4408,12.3155,Portugal,Lisbon,38.7169,-9.1399,2593,1611.22
+Portugal,Lisbon,38.7169,-9.1399,Italy,Venice,45.4408,12.3155,2593,1611.22
+Denmark,Copenhagen,55.6761,12.5683,Italy,Naples,40.8518,14.2681,2585,1606.24
+Italy,Naples,40.8518,14.2681,Denmark,Copenhagen,55.6761,12.5683,2585,1606.24
+France,Strasbourg,48.5734,7.7521,Greece,Athens,37.9838,23.7275,2581,1603.76
+Greece,Athens,37.9838,23.7275,France,Strasbourg,48.5734,7.7521,2581,1603.76
+France,Nice,43.7102,7.262,Greece,Athens,37.9838,23.7275,2570,1596.92
+Greece,Athens,37.9838,23.7275,France,Nice,43.7102,7.262,2570,1596.92
+Germany,Cologne,50.9375,6.9603,Greece,Athens,37.9838,23.7275,2562,1591.95
+Greece,Athens,37.9838,23.7275,Germany,Cologne,50.9375,6.9603,2562,1591.95
+Germany,Berlin,52.52,13.405,Greece,Athens,37.9838,23.7275,2552,1585.74
+Greece,Athens,37.9838,23.7275,Germany,Berlin,52.52,13.405,2552,1585.74
+Greece,Athens,37.9838,23.7275,Italy,Rome,41.9028,12.4964,2551,1585.12
+Italy,Rome,41.9028,12.4964,Greece,Athens,37.9838,23.7275,2551,1585.12
+Germany,Frankfurt,50.1109,8.6821,Portugal,Lisbon,38.7169,-9.1399,2544,1580.77
+Portugal,Lisbon,38.7169,-9.1399,Germany,Frankfurt,50.1109,8.6821,2544,1580.77
+Germany,Berlin,52.52,13.405,Spain,Madrid,40.4168,-3.7038,2527,1570.20
+Spain,Madrid,40.4168,-3.7038,Germany,Berlin,52.52,13.405,2527,1570.20
+Germany,Munich,48.1351,11.582,Portugal,Lisbon,38.7169,-9.1399,2515,1562.75
+Portugal,Lisbon,38.7169,-9.1399,Germany,Munich,48.1351,11.582,2515,1562.75
+Italy,Rome,41.9028,12.4964,United Kingdom,Edinburgh,55.9533,-3.1883,2467,1532.92
+United Kingdom,Edinburgh,55.9533,-3.1883,Italy,Rome,41.9028,12.4964,2467,1532.92
+Greece,Athens,37.9838,23.7275,Switzerland,Zurich,47.3769,8.5417,2449,1521.74
+Switzerland,Zurich,47.3769,8.5417,Greece,Athens,37.9838,23.7275,2449,1521.74
+Germany,Stuttgart,48.7758,9.1829,Greece,Athens,37.9838,23.7275,2428,1508.69
+Greece,Athens,37.9838,23.7275,Germany,Stuttgart,48.7758,9.1829,2428,1508.69
+Germany,Hamburg,53.5511,9.9937,Spain,Madrid,40.4168,-3.7038,2409,1496.88
+Spain,Madrid,40.4168,-3.7038,Germany,Hamburg,53.5511,9.9937,2409,1496.88
+Germany,Frankfurt,50.1109,8.6821,Greece,Athens,37.9838,23.7275,2382,1480.11
+Greece,Athens,37.9838,23.7275,Germany,Frankfurt,50.1109,8.6821,2382,1480.11
+Germany,Stuttgart,48.7758,9.1829,Portugal,Lisbon,38.7169,-9.1399,2377,1477.00
+Portugal,Lisbon,38.7169,-9.1399,Germany,Stuttgart,48.7758,9.1829,2377,1477.00
+Spain,Madrid,40.4168,-3.7038,United Kingdom,Edinburgh,55.9533,-3.1883,2372,1473.89
+United Kingdom,Edinburgh,55.9533,-3.1883,Spain,Madrid,40.4168,-3.7038,2372,1473.89
+Italy,Milan,45.4642,9.19,Portugal,Lisbon,38.7169,-9.1399,2368,1471.41
+Portugal,Lisbon,38.7169,-9.1399,Italy,Milan,45.4642,9.19,2368,1471.41
+Denmark,Copenhagen,55.6761,12.5683,Italy,Rome,41.9028,12.4964,2352,1461.46
+Italy,Rome,41.9028,12.4964,Denmark,Copenhagen,55.6761,12.5683,2352,1461.46
+Italy,Naples,40.8518,14.2681,Spain,Madrid,40.4168,-3.7038,2332,1449.04
+Spain,Madrid,40.4168,-3.7038,Italy,Naples,40.8518,14.2681,2332,1449.04
+Czech Republic,Prague,50.0755,14.4378,Spain,Madrid,40.4168,-3.7038,2307,1433.50
+Spain,Madrid,40.4168,-3.7038,Czech Republic,Prague,50.0755,14.4378,2307,1433.50
+Portugal,Lisbon,38.7169,-9.1399,Switzerland,Zurich,47.3769,8.5417,2302,1430.40
+Switzerland,Zurich,47.3769,8.5417,Portugal,Lisbon,38.7169,-9.1399,2302,1430.40
+Netherlands,Amsterdam,52.3676,4.9041,Portugal,Lisbon,38.7169,-9.1399,2300,1429.15
+Portugal,Lisbon,38.7169,-9.1399,Netherlands,Amsterdam,52.3676,4.9041,2300,1429.15
+Germany,Cologne,50.9375,6.9603,Portugal,Lisbon,38.7169,-9.1399,2294,1425.43
+Portugal,Lisbon,38.7169,-9.1399,Germany,Cologne,50.9375,6.9603,2294,1425.43
+Greece,Athens,37.9838,23.7275,Italy,Milan,45.4642,9.19,2280,1416.73
+Italy,Milan,45.4642,9.19,Greece,Athens,37.9838,23.7275,2280,1416.73
+Greece,Athens,37.9838,23.7275,Italy,Turin,45.0703,7.6869,2250,1398.08
+Italy,Turin,45.0703,7.6869,Greece,Athens,37.9838,23.7275,2250,1398.08
+Netherlands,The Hague,52.0705,4.3007,Portugal,Lisbon,38.7169,-9.1399,2250,1398.08
+Portugal,Lisbon,38.7169,-9.1399,Netherlands,The Hague,52.0705,4.3007,2250,1398.08
+Greece,Athens,37.9838,23.7275,Italy,Genoa,44.4056,8.9463,2242,1393.11
+Italy,Genoa,44.4056,8.9463,Greece,Athens,37.9838,23.7275,2242,1393.11
+Denmark,Copenhagen,55.6761,12.5683,Spain,Barcelona,41.3851,2.1734,2230,1385.66
+Spain,Barcelona,41.3851,2.1734,Denmark,Copenhagen,55.6761,12.5683,2230,1385.66
+Netherlands,Rotterdam,51.9225,4.4792,Portugal,Lisbon,38.7169,-9.1399,2226,1383.17
+Portugal,Lisbon,38.7169,-9.1399,Netherlands,Rotterdam,51.9225,4.4792,2226,1383.17
+France,Strasbourg,48.5734,7.7521,Portugal,Lisbon,38.7169,-9.1399,2212,1374.47
+Italy,Genoa,44.4056,8.9463,Portugal,Lisbon,38.7169,-9.1399,2212,1374.47
+Portugal,Lisbon,38.7169,-9.1399,France,Strasbourg,48.5734,7.7521,2212,1374.47
+Portugal,Lisbon,38.7169,-9.1399,Italy,Genoa,44.4056,8.9463,2212,1374.47
+Germany,Munich,48.1351,11.582,Greece,Athens,37.9838,23.7275,2210,1373.23
+Greece,Athens,37.9838,23.7275,Germany,Munich,48.1351,11.582,2210,1373.23
+Portugal,Lisbon,38.7169,-9.1399,United Kingdom,London,51.5074,-0.1278,2210,1373.23
+United Kingdom,London,51.5074,-0.1278,Portugal,Lisbon,38.7169,-9.1399,2210,1373.23
+Czech Republic,Prague,50.0755,14.4378,Greece,Athens,37.9838,23.7275,2198,1365.77
+Greece,Athens,37.9838,23.7275,Czech Republic,Prague,50.0755,14.4378,2198,1365.77
+Spain,Barcelona,41.3851,2.1734,United Kingdom,Edinburgh,55.9533,-3.1883,2181,1355.21
+United Kingdom,Edinburgh,55.9533,-3.1883,Spain,Barcelona,41.3851,2.1734,2181,1355.21
+Portugal,Lisbon,38.7169,-9.1399,Switzerland,Bern,46.9481,7.4474,2179,1353.97
+Switzerland,Bern,46.9481,7.4474,Portugal,Lisbon,38.7169,-9.1399,2179,1353.97
+Luxembourg,Luxembourg,49.6117,6.1319,Portugal,Lisbon,38.7169,-9.1399,2165,1345.27
+Portugal,Lisbon,38.7169,-9.1399,Luxembourg,Luxembourg,49.6117,6.1319,2165,1345.27
+Italy,Turin,45.0703,7.6869,Portugal,Lisbon,38.7169,-9.1399,2158,1340.92
+Portugal,Lisbon,38.7169,-9.1399,Italy,Turin,45.0703,7.6869,2158,1340.92
+Italy,Venice,45.4408,12.3155,United Kingdom,Edinburgh,55.9533,-3.1883,2146,1333.46
+United Kingdom,Edinburgh,55.9533,-3.1883,Italy,Venice,45.4408,12.3155,2146,1333.46
+Germany,Hamburg,53.5511,9.9937,Italy,Naples,40.8518,14.2681,2136,1327.25
+Italy,Naples,40.8518,14.2681,Germany,Hamburg,53.5511,9.9937,2136,1327.25
+Belgium,Antwerp,51.2194,4.4025,Portugal,Lisbon,38.7169,-9.1399,2126,1321.03
+Portugal,Lisbon,38.7169,-9.1399,Belgium,Antwerp,51.2194,4.4025,2126,1321.03
+Italy,Rome,41.9028,12.4964,Spain,Madrid,40.4168,-3.7038,2099,1304.26
+Spain,Madrid,40.4168,-3.7038,Italy,Rome,41.9028,12.4964,2099,1304.26
+Austria,Vienna,48.2082,16.3738,United Kingdom,Edinburgh,55.9533,-3.1883,2098,1303.64
+United Kingdom,Edinburgh,55.9533,-3.1883,Austria,Vienna,48.2082,16.3738,2098,1303.64
+Belgium,Brussels,50.8503,4.3517,Portugal,Lisbon,38.7169,-9.1399,2080,1292.45
+Portugal,Lisbon,38.7169,-9.1399,Belgium,Brussels,50.8503,4.3517,2080,1292.45
+Italy,Naples,40.8518,14.2681,Netherlands,Amsterdam,52.3676,4.9041,2070,1286.24
+Netherlands,Amsterdam,52.3676,4.9041,Italy,Naples,40.8518,14.2681,2070,1286.24
+France,Calais,50.9513,1.8587,Portugal,Lisbon,38.7169,-9.1399,2060,1280.02
+Portugal,Lisbon,38.7169,-9.1399,France,Calais,50.9513,1.8587,2060,1280.02
+Portugal,Lisbon,38.7169,-9.1399,Switzerland,Geneva,46.2044,6.1432,2024,1257.65
+Switzerland,Geneva,46.2044,6.1432,Portugal,Lisbon,38.7169,-9.1399,2024,1257.65
+Italy,Naples,40.8518,14.2681,Netherlands,The Hague,52.0705,4.3007,2018,1253.93
+Netherlands,The Hague,52.0705,4.3007,Italy,Naples,40.8518,14.2681,2018,1253.93
+France,Nice,43.7102,7.262,United Kingdom,Edinburgh,55.9533,-3.1883,2015,1252.06
+United Kingdom,Edinburgh,55.9533,-3.1883,France,Nice,43.7102,7.262,2015,1252.06
+Denmark,Copenhagen,55.6761,12.5683,France,Nice,43.7102,7.262,2014,1251.44
+France,Nice,43.7102,7.262,Denmark,Copenhagen,55.6761,12.5683,2014,1251.44
+Italy,Naples,40.8518,14.2681,United Kingdom,London,51.5074,-0.1278,1996,1240.26
+United Kingdom,London,51.5074,-0.1278,Italy,Naples,40.8518,14.2681,1996,1240.26
+Greece,Athens,37.9838,23.7275,Italy,Venice,45.4408,12.3155,1995,1239.64
+Italy,Venice,45.4408,12.3155,Greece,Athens,37.9838,23.7275,1995,1239.64
+Italy,Naples,40.8518,14.2681,Netherlands,Rotterdam,51.9225,4.4792,1994,1239.01
+Netherlands,Rotterdam,51.9225,4.4792,Italy,Naples,40.8518,14.2681,1994,1239.01
+France,Le Havre,49.4944,0.1079,Italy,Naples,40.8518,14.2681,1991,1237.15
+Italy,Naples,40.8518,14.2681,France,Le Havre,49.4944,0.1079,1991,1237.15
+Austria,Vienna,48.2082,16.3738,Spain,Barcelona,41.3851,2.1734,1989,1235.91
+Spain,Barcelona,41.3851,2.1734,Austria,Vienna,48.2082,16.3738,1989,1235.91
+France,Calais,50.9513,1.8587,Italy,Naples,40.8518,14.2681,1971,1224.72
+Italy,Naples,40.8518,14.2681,France,Calais,50.9513,1.8587,1971,1224.72
+Italy,Venice,45.4408,12.3155,Spain,Madrid,40.4168,-3.7038,1955,1214.78
+Spain,Madrid,40.4168,-3.7038,Italy,Venice,45.4408,12.3155,1955,1214.78
+France,Nice,43.7102,7.262,Portugal,Lisbon,38.7169,-9.1399,1951,1212.29
+Portugal,Lisbon,38.7169,-9.1399,France,Nice,43.7102,7.262,1951,1212.29
+Italy,Genoa,44.4056,8.9463,United Kingdom,Edinburgh,55.9533,-3.1883,1922,1194.28
+United Kingdom,Edinburgh,55.9533,-3.1883,Italy,Genoa,44.4056,8.9463,1922,1194.28
+Denmark,Copenhagen,55.6761,12.5683,France,Marseille,43.2965,5.3698,1914,1189.30
+France,Marseille,43.2965,5.3698,Denmark,Copenhagen,55.6761,12.5683,1914,1189.30
+Germany,Frankfurt,50.1109,8.6821,Spain,Madrid,40.4168,-3.7038,1906,1184.33
+Spain,Madrid,40.4168,-3.7038,Germany,Frankfurt,50.1109,8.6821,1906,1184.33
+Germany,Hamburg,53.5511,9.9937,Italy,Rome,41.9028,12.4964,1903,1182.47
+Italy,Rome,41.9028,12.4964,Germany,Hamburg,53.5511,9.9937,1903,1182.47
+Germany,Berlin,52.52,13.405,Spain,Barcelona,41.3851,2.1734,1899,1179.98
+Spain,Barcelona,41.3851,2.1734,Germany,Berlin,52.52,13.405,1899,1179.98
+Belgium,Antwerp,51.2194,4.4025,Italy,Naples,40.8518,14.2681,1894,1176.88
+France,Le Havre,49.4944,0.1079,Portugal,Lisbon,38.7169,-9.1399,1894,1176.88
+Italy,Naples,40.8518,14.2681,Belgium,Antwerp,51.2194,4.4025,1894,1176.88
+Portugal,Lisbon,38.7169,-9.1399,France,Le Havre,49.4944,0.1079,1894,1176.88
+Germany,Stuttgart,48.7758,9.1829,Spain,Madrid,40.4168,-3.7038,1891,1175.01
+Spain,Madrid,40.4168,-3.7038,Germany,Stuttgart,48.7758,9.1829,1891,1175.01
+Austria,Vienna,48.2082,16.3738,Greece,Athens,37.9838,23.7275,1886,1171.91
+Greece,Athens,37.9838,23.7275,Austria,Vienna,48.2082,16.3738,1886,1171.91
+Italy,Milan,45.4642,9.19,United Kingdom,Edinburgh,55.9533,-3.1883,1883,1170.04
+United Kingdom,Edinburgh,55.9533,-3.1883,Italy,Milan,45.4642,9.19,1883,1170.04
+Germany,Munich,48.1351,11.582,Spain,Madrid,40.4168,-3.7038,1877,1166.31
+Spain,Madrid,40.4168,-3.7038,Germany,Munich,48.1351,11.582,1877,1166.31
+Czech Republic,Prague,50.0755,14.4378,United Kingdom,Edinburgh,55.9533,-3.1883,1872,1163.21
+United Kingdom,Edinburgh,55.9533,-3.1883,Czech Republic,Prague,50.0755,14.4378,1872,1163.21
+Denmark,Copenhagen,55.6761,12.5683,United Kingdom,Edinburgh,55.9533,-3.1883,1864,1158.24
+United Kingdom,Edinburgh,55.9533,-3.1883,Denmark,Copenhagen,55.6761,12.5683,1864,1158.24
+France,Marseille,43.2965,5.3698,United Kingdom,Edinburgh,55.9533,-3.1883,1860,1155.75
+United Kingdom,Edinburgh,55.9533,-3.1883,France,Marseille,43.2965,5.3698,1860,1155.75
+Germany,Hamburg,53.5511,9.9937,Spain,Barcelona,41.3851,2.1734,1856,1153.26
+Spain,Barcelona,41.3851,2.1734,Germany,Hamburg,53.5511,9.9937,1856,1153.26
+Belgium,Brussels,50.8503,4.3517,Italy,Naples,40.8518,14.2681,1848,1148.29
+Italy,Naples,40.8518,14.2681,Belgium,Brussels,50.8503,4.3517,1848,1148.29
+Italy,Rome,41.9028,12.4964,Netherlands,Amsterdam,52.3676,4.9041,1835,1140.22
+Netherlands,Amsterdam,52.3676,4.9041,Italy,Rome,41.9028,12.4964,1835,1140.22
+Germany,Cologne,50.9375,6.9603,Italy,Naples,40.8518,14.2681,1819,1130.27
+Italy,Naples,40.8518,14.2681,Germany,Cologne,50.9375,6.9603,1819,1130.27
+Germany,Berlin,52.52,13.405,Italy,Naples,40.8518,14.2681,1806,1122.20
+Italy,Naples,40.8518,14.2681,Germany,Berlin,52.52,13.405,1806,1122.20
+Italy,Rome,41.9028,12.4964,United Kingdom,London,51.5074,-0.1278,1799,1117.85
+United Kingdom,London,51.5074,-0.1278,Italy,Rome,41.9028,12.4964,1799,1117.85
+France,Paris,48.8566,2.3522,Portugal,Lisbon,38.7169,-9.1399,1786,1109.77
+Italy,Turin,45.0703,7.6869,United Kingdom,Edinburgh,55.9533,-3.1883,1786,1109.77
+Portugal,Lisbon,38.7169,-9.1399,France,Paris,48.8566,2.3522,1786,1109.77
+United Kingdom,Edinburgh,55.9533,-3.1883,Italy,Turin,45.0703,7.6869,1786,1109.77
+Italy,Rome,41.9028,12.4964,Netherlands,The Hague,52.0705,4.3007,1785,1109.15
+Netherlands,The Hague,52.0705,4.3007,Italy,Rome,41.9028,12.4964,1785,1109.15
+France,Lyon,45.764,4.8357,Portugal,Lisbon,38.7169,-9.1399,1784,1108.53
+Portugal,Lisbon,38.7169,-9.1399,France,Lyon,45.764,4.8357,1784,1108.53
+Netherlands,Amsterdam,52.3676,4.9041,Spain,Madrid,40.4168,-3.7038,1782,1107.28
+Spain,Madrid,40.4168,-3.7038,Netherlands,Amsterdam,52.3676,4.9041,1782,1107.28
+France,Marseille,43.2965,5.3698,Portugal,Lisbon,38.7169,-9.1399,1781,1106.66
+Portugal,Lisbon,38.7169,-9.1399,France,Marseille,43.2965,5.3698,1781,1106.66
+Germany,Cologne,50.9375,6.9603,Spain,Madrid,40.4168,-3.7038,1776,1103.55
+Spain,Madrid,40.4168,-3.7038,Germany,Cologne,50.9375,6.9603,1776,1103.55
+France,Paris,48.8566,2.3522,Italy,Naples,40.8518,14.2681,1764,1096.10
+Italy,Naples,40.8518,14.2681,France,Paris,48.8566,2.3522,1764,1096.10
+Italy,Rome,41.9028,12.4964,Netherlands,Rotterdam,51.9225,4.4792,1761,1094.23
+Netherlands,Rotterdam,51.9225,4.4792,Italy,Rome,41.9028,12.4964,1761,1094.23
+France,Le Havre,49.4944,0.1079,Italy,Rome,41.9028,12.4964,1758,1092.37
+Italy,Rome,41.9028,12.4964,France,Le Havre,49.4944,0.1079,1758,1092.37
+Germany,Munich,48.1351,11.582,United Kingdom,Edinburgh,55.9533,-3.1883,1743,1083.05
+United Kingdom,Edinburgh,55.9533,-3.1883,Germany,Munich,48.1351,11.582,1743,1083.05
+France,Calais,50.9513,1.8587,Italy,Rome,41.9028,12.4964,1738,1079.94
+Italy,Rome,41.9028,12.4964,France,Calais,50.9513,1.8587,1738,1079.94
+Netherlands,The Hague,52.0705,4.3007,Spain,Madrid,40.4168,-3.7038,1732,1076.21
+Spain,Madrid,40.4168,-3.7038,Netherlands,The Hague,52.0705,4.3007,1732,1076.21
+Italy,Milan,45.4642,9.19,Spain,Madrid,40.4168,-3.7038,1730,1074.97
+Spain,Madrid,40.4168,-3.7038,Italy,Milan,45.4642,9.19,1730,1074.97
+Germany,Berlin,52.52,13.405,United Kingdom,Edinburgh,55.9533,-3.1883,1727,1073.11
+United Kingdom,Edinburgh,55.9533,-3.1883,Germany,Berlin,52.52,13.405,1727,1073.11
+Denmark,Copenhagen,55.6761,12.5683,Italy,Venice,45.4408,12.3155,1708,1061.30
+Italy,Venice,45.4408,12.3155,Denmark,Copenhagen,55.6761,12.5683,1708,1061.30
+Netherlands,Rotterdam,51.9225,4.4792,Spain,Madrid,40.4168,-3.7038,1708,1061.30
+Spain,Madrid,40.4168,-3.7038,Netherlands,Rotterdam,51.9225,4.4792,1708,1061.30
+Italy,Naples,40.8518,14.2681,Spain,Barcelona,41.3851,2.1734,1704,1058.82
+Spain,Barcelona,41.3851,2.1734,Italy,Naples,40.8518,14.2681,1704,1058.82
+Spain,Madrid,40.4168,-3.7038,United Kingdom,London,51.5074,-0.1278,1704,1058.82
+United Kingdom,London,51.5074,-0.1278,Spain,Madrid,40.4168,-3.7038,1704,1058.82
+France,Strasbourg,48.5734,7.7521,Spain,Madrid,40.4168,-3.7038,1700,1056.33
+Spain,Madrid,40.4168,-3.7038,France,Strasbourg,48.5734,7.7521,1700,1056.33
+Czech Republic,Prague,50.0755,14.4378,Spain,Barcelona,41.3851,2.1734,1679,1043.28
+Spain,Barcelona,41.3851,2.1734,Czech Republic,Prague,50.0755,14.4378,1679,1043.28
+Denmark,Copenhagen,55.6761,12.5683,Italy,Milan,45.4642,9.19,1671,1038.31
+Italy,Milan,45.4642,9.19,Denmark,Copenhagen,55.6761,12.5683,1671,1038.31
+Spain,Madrid,40.4168,-3.7038,Switzerland,Zurich,47.3769,8.5417,1664,1033.96
+Switzerland,Zurich,47.3769,8.5417,Spain,Madrid,40.4168,-3.7038,1664,1033.96
+Belgium,Antwerp,51.2194,4.4025,Italy,Rome,41.9028,12.4964,1660,1031.48
+Italy,Rome,41.9028,12.4964,Belgium,Antwerp,51.2194,4.4025,1660,1031.48
+Luxembourg,Luxembourg,49.6117,6.1319,Spain,Madrid,40.4168,-3.7038,1647,1023.40
+Spain,Madrid,40.4168,-3.7038,Luxembourg,Luxembourg,49.6117,6.1319,1647,1023.40
+Italy,Naples,40.8518,14.2681,Luxembourg,Luxembourg,49.6117,6.1319,1645,1022.16
+Luxembourg,Luxembourg,49.6117,6.1319,Italy,Naples,40.8518,14.2681,1645,1022.16
+Switzerland,Bern,46.9481,7.4474,United Kingdom,Edinburgh,55.9533,-3.1883,1643,1020.91
+United Kingdom,Edinburgh,55.9533,-3.1883,Switzerland,Bern,46.9481,7.4474,1643,1020.91
+Germany,Frankfurt,50.1109,8.6821,Italy,Naples,40.8518,14.2681,1639,1018.43
+Italy,Naples,40.8518,14.2681,Germany,Frankfurt,50.1109,8.6821,1639,1018.43
+Netherlands,Amsterdam,52.3676,4.9041,Spain,Barcelona,41.3851,2.1734,1639,1018.43
+Spain,Barcelona,41.3851,2.1734,Netherlands,Amsterdam,52.3676,4.9041,1639,1018.43
+Switzerland,Zurich,47.3769,8.5417,United Kingdom,Edinburgh,55.9533,-3.1883,1631,1013.46
+United Kingdom,Edinburgh,55.9533,-3.1883,Switzerland,Zurich,47.3769,8.5417,1631,1013.46
+Belgium,Brussels,50.8503,4.3517,Italy,Rome,41.9028,12.4964,1615,1003.51
+Italy,Rome,41.9028,12.4964,Belgium,Brussels,50.8503,4.3517,1615,1003.51
+France,Nice,43.7102,7.262,Germany,Berlin,52.52,13.405,1610,1000.41
+Germany,Berlin,52.52,13.405,France,Nice,43.7102,7.262,1610,1000.41
+Belgium,Antwerp,51.2194,4.4025,Spain,Madrid,40.4168,-3.7038,1608,999.16
+Spain,Madrid,40.4168,-3.7038,Belgium,Antwerp,51.2194,4.4025,1608,999.16
+Czech Republic,Prague,50.0755,14.4378,Italy,Naples,40.8518,14.2681,1603,996.06
+Italy,Naples,40.8518,14.2681,Czech Republic,Prague,50.0755,14.4378,1603,996.06
+Netherlands,The Hague,52.0705,4.3007,Spain,Barcelona,41.3851,2.1734,1589,987.36
+Spain,Barcelona,41.3851,2.1734,Netherlands,The Hague,52.0705,4.3007,1589,987.36
+Denmark,Copenhagen,55.6761,12.5683,France,Lyon,45.764,4.8357,1586,985.49
+France,Lyon,45.764,4.8357,Denmark,Copenhagen,55.6761,12.5683,1586,985.49
+Germany,Cologne,50.9375,6.9603,Italy,Rome,41.9028,12.4964,1586,985.49
+Italy,Rome,41.9028,12.4964,Germany,Cologne,50.9375,6.9603,1586,985.49
+France,Marseille,43.2965,5.3698,Germany,Berlin,52.52,13.405,1584,984.25
+Germany,Berlin,52.52,13.405,France,Marseille,43.2965,5.3698,1584,984.25
+Italy,Genoa,44.4056,8.9463,Spain,Madrid,40.4168,-3.7038,1574,978.04
+Spain,Madrid,40.4168,-3.7038,Italy,Genoa,44.4056,8.9463,1574,978.04
+Germany,Berlin,52.52,13.405,Italy,Rome,41.9028,12.4964,1573,977.42
+Italy,Rome,41.9028,12.4964,Germany,Berlin,52.52,13.405,1573,977.42
+France,Nice,43.7102,7.262,Germany,Hamburg,53.5511,9.9937,1565,972.45
+Germany,Hamburg,53.5511,9.9937,France,Nice,43.7102,7.262,1565,972.45
+Netherlands,Rotterdam,51.9225,4.4792,Spain,Barcelona,41.3851,2.1734,1565,972.45
+Spain,Barcelona,41.3851,2.1734,Netherlands,Rotterdam,51.9225,4.4792,1565,972.45
+Belgium,Brussels,50.8503,4.3517,Spain,Madrid,40.4168,-3.7038,1562,970.58
+Spain,Madrid,40.4168,-3.7038,Belgium,Brussels,50.8503,4.3517,1562,970.58
+Germany,Hamburg,53.5511,9.9937,United Kingdom,Edinburgh,55.9533,-3.1883,1555,966.23
+United Kingdom,Edinburgh,55.9533,-3.1883,Germany,Hamburg,53.5511,9.9937,1555,966.23
+Denmark,Copenhagen,55.6761,12.5683,Italy,Genoa,44.4056,8.9463,1552,964.37
+France,Lyon,45.764,4.8357,United Kingdom,Edinburgh,55.9533,-3.1883,1552,964.37
+Italy,Genoa,44.4056,8.9463,Denmark,Copenhagen,55.6761,12.5683,1552,964.37
+United Kingdom,Edinburgh,55.9533,-3.1883,France,Lyon,45.764,4.8357,1552,964.37
+France,Calais,50.9513,1.8587,Spain,Madrid,40.4168,-3.7038,1542,958.15
+Spain,Madrid,40.4168,-3.7038,France,Calais,50.9513,1.8587,1542,958.15
+Spain,Madrid,40.4168,-3.7038,Switzerland,Bern,46.9481,7.4474,1541,957.53
+Switzerland,Bern,46.9481,7.4474,Spain,Madrid,40.4168,-3.7038,1541,957.53
+Germany,Cologne,50.9375,6.9603,Spain,Barcelona,41.3851,2.1734,1539,956.29
+Spain,Barcelona,41.3851,2.1734,Germany,Cologne,50.9375,6.9603,1539,956.29
+Switzerland,Geneva,46.2044,6.1432,United Kingdom,Edinburgh,55.9533,-3.1883,1536,954.43
+United Kingdom,Edinburgh,55.9533,-3.1883,Switzerland,Geneva,46.2044,6.1432,1536,954.43
+Germany,Stuttgart,48.7758,9.1829,United Kingdom,Edinburgh,55.9533,-3.1883,1534,953.18
+United Kingdom,Edinburgh,55.9533,-3.1883,Germany,Stuttgart,48.7758,9.1829,1534,953.18
+Denmark,Copenhagen,55.6761,12.5683,Switzerland,Geneva,46.2044,6.1432,1531,951.32
+Denmark,Copenhagen,55.6761,12.5683,France,Le Havre,49.4944,0.1079,1531,951.32
+France,Le Havre,49.4944,0.1079,Denmark,Copenhagen,55.6761,12.5683,1531,951.32
+France,Paris,48.8566,2.3522,Italy,Rome,41.9028,12.4964,1531,951.32
+Italy,Rome,41.9028,12.4964,France,Paris,48.8566,2.3522,1531,951.32
+Switzerland,Geneva,46.2044,6.1432,Denmark,Copenhagen,55.6761,12.5683,1531,951.32
+Denmark,Copenhagen,55.6761,12.5683,Italy,Turin,45.0703,7.6869,1527,948.83
+Italy,Turin,45.0703,7.6869,Denmark,Copenhagen,55.6761,12.5683,1527,948.83
+Italy,Turin,45.0703,7.6869,Spain,Madrid,40.4168,-3.7038,1520,944.48
+Spain,Madrid,40.4168,-3.7038,Italy,Turin,45.0703,7.6869,1520,944.48
+Spain,Barcelona,41.3851,2.1734,United Kingdom,London,51.5074,-0.1278,1512,939.51
+United Kingdom,London,51.5074,-0.1278,Spain,Barcelona,41.3851,2.1734,1512,939.51
+Austria,Vienna,48.2082,16.3738,France,Le Havre,49.4944,0.1079,1496,929.57
+France,Le Havre,49.4944,0.1079,Austria,Vienna,48.2082,16.3738,1496,929.57
+Italy,Venice,45.4408,12.3155,United Kingdom,London,51.5074,-0.1278,1478,918.39
+United Kingdom,London,51.5074,-0.1278,Italy,Venice,45.4408,12.3155,1478,918.39
+Italy,Rome,41.9028,12.4964,Spain,Barcelona,41.3851,2.1734,1471,914.04
+Spain,Barcelona,41.3851,2.1734,Italy,Rome,41.9028,12.4964,1471,914.04
+Belgium,Antwerp,51.2194,4.4025,Spain,Barcelona,41.3851,2.1734,1465,910.31
+France,Marseille,43.2965,5.3698,Germany,Hamburg,53.5511,9.9937,1465,910.31
+Germany,Hamburg,53.5511,9.9937,France,Marseille,43.2965,5.3698,1465,910.31
+Spain,Barcelona,41.3851,2.1734,Belgium,Antwerp,51.2194,4.4025,1465,910.31
+Italy,Venice,45.4408,12.3155,Netherlands,Amsterdam,52.3676,4.9041,1449,900.37
+Netherlands,Amsterdam,52.3676,4.9041,Italy,Venice,45.4408,12.3155,1449,900.37
+Germany,Stuttgart,48.7758,9.1829,Italy,Naples,40.8518,14.2681,1446,898.50
+Italy,Naples,40.8518,14.2681,Germany,Stuttgart,48.7758,9.1829,1446,898.50
+France,Nice,43.7102,7.262,Netherlands,Amsterdam,52.3676,4.9041,1435,891.67
+Netherlands,Amsterdam,52.3676,4.9041,France,Nice,43.7102,7.262,1435,891.67
+France,Strasbourg,48.5734,7.7521,Italy,Naples,40.8518,14.2681,1425,885.45
+Italy,Naples,40.8518,14.2681,France,Strasbourg,48.5734,7.7521,1425,885.45
+Belgium,Brussels,50.8503,4.3517,Spain,Barcelona,41.3851,2.1734,1419,881.73
+Spain,Barcelona,41.3851,2.1734,Belgium,Brussels,50.8503,4.3517,1419,881.73
+Austria,Vienna,48.2082,16.3738,France,Marseille,43.2965,5.3698,1414,878.62
+France,Marseille,43.2965,5.3698,Austria,Vienna,48.2082,16.3738,1414,878.62
+France,Strasbourg,48.5734,7.7521,United Kingdom,Edinburgh,55.9533,-3.1883,1412,877.38
+United Kingdom,Edinburgh,55.9533,-3.1883,France,Strasbourg,48.5734,7.7521,1412,877.38
+Germany,Frankfurt,50.1109,8.6821,Italy,Rome,41.9028,12.4964,1406,873.65
+Italy,Rome,41.9028,12.4964,Germany,Frankfurt,50.1109,8.6821,1406,873.65
+Austria,Vienna,48.2082,16.3738,Italy,Naples,40.8518,14.2681,1401,870.54
+Italy,Naples,40.8518,14.2681,Austria,Vienna,48.2082,16.3738,1401,870.54
+Italy,Rome,41.9028,12.4964,Luxembourg,Luxembourg,49.6117,6.1319,1400,869.92
+Luxembourg,Luxembourg,49.6117,6.1319,Italy,Rome,41.9028,12.4964,1400,869.92
+France,Calais,50.9513,1.8587,Spain,Barcelona,41.3851,2.1734,1399,869.30
+Italy,Venice,45.4408,12.3155,Netherlands,The Hague,52.0705,4.3007,1399,869.30
+Netherlands,The Hague,52.0705,4.3007,Italy,Venice,45.4408,12.3155,1399,869.30
+Spain,Barcelona,41.3851,2.1734,France,Calais,50.9513,1.8587,1399,869.30
+Czech Republic,Prague,50.0755,14.4378,France,Marseille,43.2965,5.3698,1397,868.06
+France,Marseille,43.2965,5.3698,Czech Republic,Prague,50.0755,14.4378,1397,868.06
+Germany,Frankfurt,50.1109,8.6821,United Kingdom,Edinburgh,55.9533,-3.1883,1395,866.81
+United Kingdom,Edinburgh,55.9533,-3.1883,Germany,Frankfurt,50.1109,8.6821,1395,866.81
+Denmark,Copenhagen,55.6761,12.5683,Switzerland,Bern,46.9481,7.4474,1392,864.95
+Switzerland,Bern,46.9481,7.4474,Denmark,Copenhagen,55.6761,12.5683,1392,864.95
+Spain,Madrid,40.4168,-3.7038,Switzerland,Geneva,46.2044,6.1432,1386,861.22
+Switzerland,Geneva,46.2044,6.1432,Spain,Madrid,40.4168,-3.7038,1386,861.22
+France,Nice,43.7102,7.262,Netherlands,The Hague,52.0705,4.3007,1385,860.60
+Netherlands,The Hague,52.0705,4.3007,France,Nice,43.7102,7.262,1385,860.60
+France,Le Havre,49.4944,0.1079,Italy,Venice,45.4408,12.3155,1382,858.73
+Italy,Venice,45.4408,12.3155,France,Le Havre,49.4944,0.1079,1382,858.73
+Denmark,Copenhagen,55.6761,12.5683,Switzerland,Zurich,47.3769,8.5417,1378,856.25
+Germany,Hamburg,53.5511,9.9937,Italy,Genoa,44.4056,8.9463,1378,856.25
+Italy,Genoa,44.4056,8.9463,Germany,Hamburg,53.5511,9.9937,1378,856.25
+Switzerland,Zurich,47.3769,8.5417,Denmark,Copenhagen,55.6761,12.5683,1378,856.25
+France,Le Havre,49.4944,0.1079,Spain,Madrid,40.4168,-3.7038,1376,855.01
+Spain,Madrid,40.4168,-3.7038,France,Le Havre,49.4944,0.1079,1376,855.01
+Czech Republic,Prague,50.0755,14.4378,Italy,Rome,41.9028,12.4964,1370,851.28
+Italy,Rome,41.9028,12.4964,Czech Republic,Prague,50.0755,14.4378,1370,851.28
+France,Nice,43.7102,7.262,Netherlands,Rotterdam,51.9225,4.4792,1361,845.69
+Netherlands,Rotterdam,51.9225,4.4792,France,Nice,43.7102,7.262,1361,845.69
+France,Calais,50.9513,1.8587,Italy,Venice,45.4408,12.3155,1352,840.09
+Italy,Venice,45.4408,12.3155,France,Calais,50.9513,1.8587,1352,840.09
+Germany,Munich,48.1351,11.582,Spain,Barcelona,41.3851,2.1734,1349,838.23
+Spain,Barcelona,41.3851,2.1734,Germany,Munich,48.1351,11.582,1349,838.23
+France,Nice,43.7102,7.262,United Kingdom,London,51.5074,-0.1278,1347,836.99
+United Kingdom,London,51.5074,-0.1278,France,Nice,43.7102,7.262,1347,836.99
+Austria,Vienna,48.2082,16.3738,France,Calais,50.9513,1.8587,1346,836.37
+France,Calais,50.9513,1.8587,Austria,Vienna,48.2082,16.3738,1346,836.37
+Austria,Vienna,48.2082,16.3738,Denmark,Copenhagen,55.6761,12.5683,1345,835.74
+Denmark,Copenhagen,55.6761,12.5683,Austria,Vienna,48.2082,16.3738,1345,835.74
+France,Le Havre,49.4944,0.1079,Spain,Barcelona,41.3851,2.1734,1336,830.15
+Spain,Barcelona,41.3851,2.1734,France,Le Havre,49.4944,0.1079,1336,830.15
+Italy,Venice,45.4408,12.3155,Netherlands,Rotterdam,51.9225,4.4792,1335,829.53
+Netherlands,Rotterdam,51.9225,4.4792,Italy,Venice,45.4408,12.3155,1335,829.53
+Germany,Hamburg,53.5511,9.9937,Italy,Turin,45.0703,7.6869,1332,827.67
+Italy,Turin,45.0703,7.6869,Germany,Hamburg,53.5511,9.9937,1332,827.67
+Denmark,Copenhagen,55.6761,12.5683,France,Paris,48.8566,2.3522,1329,825.80
+France,Paris,48.8566,2.3522,Denmark,Copenhagen,55.6761,12.5683,1329,825.80
+Italy,Venice,45.4408,12.3155,Spain,Barcelona,41.3851,2.1734,1327,824.56
+Spain,Barcelona,41.3851,2.1734,Italy,Venice,45.4408,12.3155,1327,824.56
+Italy,Naples,40.8518,14.2681,Switzerland,Geneva,46.2044,6.1432,1326,823.94
+Switzerland,Geneva,46.2044,6.1432,Italy,Naples,40.8518,14.2681,1326,823.94
+France,Marseille,43.2965,5.3698,Netherlands,Amsterdam,52.3676,4.9041,1323,822.07
+Netherlands,Amsterdam,52.3676,4.9041,France,Marseille,43.2965,5.3698,1323,822.07
+France,Nice,43.7102,7.262,Spain,Madrid,40.4168,-3.7038,1313,815.86
+Spain,Madrid,40.4168,-3.7038,France,Nice,43.7102,7.262,1313,815.86
+Italy,Genoa,44.4056,8.9463,Netherlands,Amsterdam,52.3676,4.9041,1310,814.00
+Netherlands,Amsterdam,52.3676,4.9041,Italy,Genoa,44.4056,8.9463,1310,814.00
+Czech Republic,Prague,50.0755,14.4378,France,Le Havre,49.4944,0.1079,1305,810.89
+France,Le Havre,49.4944,0.1079,Czech Republic,Prague,50.0755,14.4378,1305,810.89
+France,Lyon,45.764,4.8357,Italy,Naples,40.8518,14.2681,1299,807.16
+Italy,Naples,40.8518,14.2681,France,Lyon,45.764,4.8357,1299,807.16
+France,Lyon,45.764,4.8357,Germany,Berlin,52.52,13.405,1289,800.95
+Germany,Berlin,52.52,13.405,France,Lyon,45.764,4.8357,1289,800.95
+Austria,Vienna,48.2082,16.3738,France,Paris,48.8566,2.3522,1285,798.46
+France,Paris,48.8566,2.3522,Austria,Vienna,48.2082,16.3738,1285,798.46
+Germany,Frankfurt,50.1109,8.6821,Spain,Barcelona,41.3851,2.1734,1284,797.84
+Spain,Barcelona,41.3851,2.1734,Germany,Frankfurt,50.1109,8.6821,1284,797.84
+Belgium,Brussels,50.8503,4.3517,France,Nice,43.7102,7.262,1277,793.49
+France,Nice,43.7102,7.262,Belgium,Brussels,50.8503,4.3517,1277,793.49
+Belgium,Antwerp,51.2194,4.4025,Italy,Venice,45.4408,12.3155,1275,792.25
+Italy,Venice,45.4408,12.3155,Belgium,Antwerp,51.2194,4.4025,1275,792.25
+Czech Republic,Prague,50.0755,14.4378,France,Nice,43.7102,7.262,1274,791.63
+France,Nice,43.7102,7.262,Czech Republic,Prague,50.0755,14.4378,1274,791.63
+France,Marseille,43.2965,5.3698,Netherlands,The Hague,52.0705,4.3007,1273,791.01
+Netherlands,The Hague,52.0705,4.3007,France,Marseille,43.2965,5.3698,1273,791.01
+France,Lyon,45.764,4.8357,Spain,Madrid,40.4168,-3.7038,1272,790.38
+Spain,Madrid,40.4168,-3.7038,France,Lyon,45.764,4.8357,1272,790.38
+France,Paris,48.8566,2.3522,Spain,Madrid,40.4168,-3.7038,1268,787.90
+Spain,Madrid,40.4168,-3.7038,France,Paris,48.8566,2.3522,1268,787.90
+Portugal,Lisbon,38.7169,-9.1399,Spain,Barcelona,41.3851,2.1734,1266,786.66
+Spain,Barcelona,41.3851,2.1734,Portugal,Lisbon,38.7169,-9.1399,1266,786.66
+France,Nice,43.7102,7.262,Germany,Cologne,50.9375,6.9603,1265,786.03
+Germany,Cologne,50.9375,6.9603,France,Nice,43.7102,7.262,1265,786.03
+Italy,Turin,45.0703,7.6869,Netherlands,Amsterdam,52.3676,4.9041,1264,785.41
+Netherlands,Amsterdam,52.3676,4.9041,Italy,Turin,45.0703,7.6869,1264,785.41
+Germany,Stuttgart,48.7758,9.1829,Spain,Barcelona,41.3851,2.1734,1263,784.79
+Spain,Barcelona,41.3851,2.1734,Germany,Stuttgart,48.7758,9.1829,1263,784.79
+Belgium,Antwerp,51.2194,4.4025,France,Nice,43.7102,7.262,1261,783.55
+France,Nice,43.7102,7.262,Belgium,Antwerp,51.2194,4.4025,1261,783.55
+Italy,Naples,40.8518,14.2681,Switzerland,Bern,46.9481,7.4474,1261,783.55
+Switzerland,Bern,46.9481,7.4474,Italy,Naples,40.8518,14.2681,1261,783.55
+Germany,Hamburg,53.5511,9.9937,Italy,Venice,45.4408,12.3155,1259,782.31
+Italy,Venice,45.4408,12.3155,Germany,Hamburg,53.5511,9.9937,1259,782.31
+Italy,Genoa,44.4056,8.9463,United Kingdom,London,51.5074,-0.1278,1253,778.58
+United Kingdom,London,51.5074,-0.1278,Italy,Genoa,44.4056,8.9463,1253,778.58
+France,Marseille,43.2965,5.3698,Netherlands,Rotterdam,51.9225,4.4792,1249,776.09
+Netherlands,Rotterdam,51.9225,4.4792,France,Marseille,43.2965,5.3698,1249,776.09
+Italy,Genoa,44.4056,8.9463,Netherlands,Rotterdam,51.9225,4.4792,1236,768.01
+Netherlands,Rotterdam,51.9225,4.4792,Italy,Genoa,44.4056,8.9463,1236,768.01
+Czech Republic,Prague,50.0755,14.4378,Germany,Hamburg,53.5511,9.9937,1235,767.39
+Germany,Hamburg,53.5511,9.9937,Czech Republic,Prague,50.0755,14.4378,1235,767.39
+Austria,Vienna,48.2082,16.3738,United Kingdom,London,51.5074,-0.1278,1233,766.15
+France,Le Havre,49.4944,0.1079,Italy,Genoa,44.4056,8.9463,1233,766.15
+Italy,Genoa,44.4056,8.9463,France,Le Havre,49.4944,0.1079,1233,766.15
+United Kingdom,London,51.5074,-0.1278,Austria,Vienna,48.2082,16.3738,1233,766.15
+Belgium,Brussels,50.8503,4.3517,Italy,Venice,45.4408,12.3155,1229,763.66
+Italy,Venice,45.4408,12.3155,Belgium,Brussels,50.8503,4.3517,1229,763.66
+Germany,Hamburg,53.5511,9.9937,Italy,Milan,45.4642,9.19,1222,759.32
+Italy,Milan,45.4642,9.19,Germany,Hamburg,53.5511,9.9937,1222,759.32
+Italy,Naples,40.8518,14.2681,Switzerland,Zurich,47.3769,8.5417,1219,757.45
+Switzerland,Zurich,47.3769,8.5417,Italy,Naples,40.8518,14.2681,1219,757.45
+Austria,Vienna,48.2082,16.3738,France,Lyon,45.764,4.8357,1217,756.21
+France,Lyon,45.764,4.8357,Austria,Vienna,48.2082,16.3738,1217,756.21
+Italy,Milan,45.4642,9.19,United Kingdom,London,51.5074,-0.1278,1215,754.97
+United Kingdom,London,51.5074,-0.1278,Italy,Milan,45.4642,9.19,1215,754.97
+France,Calais,50.9513,1.8587,Italy,Genoa,44.4056,8.9463,1213,753.72
+Germany,Stuttgart,48.7758,9.1829,Italy,Rome,41.9028,12.4964,1213,753.72
+Italy,Genoa,44.4056,8.9463,France,Calais,50.9513,1.8587,1213,753.72
+Italy,Rome,41.9028,12.4964,Germany,Stuttgart,48.7758,9.1829,1213,753.72
+France,Marseille,43.2965,5.3698,Germany,Cologne,50.9375,6.9603,1208,750.62
+Germany,Cologne,50.9375,6.9603,France,Marseille,43.2965,5.3698,1208,750.62
+Germany,Cologne,50.9375,6.9603,United Kingdom,Edinburgh,55.9533,-3.1883,1206,749.37
+Luxembourg,Luxembourg,49.6117,6.1319,United Kingdom,Edinburgh,55.9533,-3.1883,1206,749.37
+United Kingdom,Edinburgh,55.9533,-3.1883,Luxembourg,Luxembourg,49.6117,6.1319,1206,749.37
+United Kingdom,Edinburgh,55.9533,-3.1883,Germany,Cologne,50.9375,6.9603,1206,749.37
+Czech Republic,Prague,50.0755,14.4378,United Kingdom,London,51.5074,-0.1278,1204,748.13
+Denmark,Copenhagen,55.6761,12.5683,Germany,Munich,48.1351,11.582,1204,748.13
+Germany,Munich,48.1351,11.582,Denmark,Copenhagen,55.6761,12.5683,1204,748.13
+United Kingdom,London,51.5074,-0.1278,Czech Republic,Prague,50.0755,14.4378,1204,748.13
+Germany,Munich,48.1351,11.582,Italy,Naples,40.8518,14.2681,1202,746.89
+Italy,Naples,40.8518,14.2681,Germany,Munich,48.1351,11.582,1202,746.89
+Austria,Vienna,48.2082,16.3738,Netherlands,Amsterdam,52.3676,4.9041,1196,743.16
+Denmark,Copenhagen,55.6761,12.5683,United Kingdom,London,51.5074,-0.1278,1196,743.16
+Netherlands,Amsterdam,52.3676,4.9041,Austria,Vienna,48.2082,16.3738,1196,743.16
+United Kingdom,London,51.5074,-0.1278,Denmark,Copenhagen,55.6761,12.5683,1196,743.16
+France,Calais,50.9513,1.8587,France,Nice,43.7102,7.262,1195,742.54
+France,Nice,43.7102,7.262,France,Calais,50.9513,1.8587,1195,742.54
+Austria,Vienna,48.2082,16.3738,Netherlands,The Hague,52.0705,4.3007,1193,741.30
+Netherlands,The Hague,52.0705,4.3007,Austria,Vienna,48.2082,16.3738,1193,741.30
+France,Marseille,43.2965,5.3698,United Kingdom,London,51.5074,-0.1278,1192,740.67
+France,Strasbourg,48.5734,7.7521,Italy,Rome,41.9028,12.4964,1192,740.67
+Italy,Rome,41.9028,12.4964,France,Strasbourg,48.5734,7.7521,1192,740.67
+United Kingdom,London,51.5074,-0.1278,France,Marseille,43.2965,5.3698,1192,740.67
+Italy,Turin,45.0703,7.6869,Netherlands,Rotterdam,51.9225,4.4792,1190,739.43
+Netherlands,Rotterdam,51.9225,4.4792,Italy,Turin,45.0703,7.6869,1190,739.43
+France,Le Havre,49.4944,0.1079,Germany,Berlin,52.52,13.405,1189,738.81
+France,Marseille,43.2965,5.3698,Italy,Naples,40.8518,14.2681,1189,738.81
+Germany,Berlin,52.52,13.405,France,Le Havre,49.4944,0.1079,1189,738.81
+Italy,Naples,40.8518,14.2681,France,Marseille,43.2965,5.3698,1189,738.81
+Germany,Berlin,52.52,13.405,Italy,Genoa,44.4056,8.9463,1188,738.19
+Italy,Genoa,44.4056,8.9463,Germany,Berlin,52.52,13.405,1188,738.19
+Austria,Vienna,48.2082,16.3738,France,Nice,43.7102,7.262,1187,737.57
+France,Nice,43.7102,7.262,Austria,Vienna,48.2082,16.3738,1187,737.57
+Austria,Vienna,48.2082,16.3738,Belgium,Antwerp,51.2194,4.4025,1180,733.22
+Belgium,Antwerp,51.2194,4.4025,Austria,Vienna,48.2082,16.3738,1180,733.22
+Netherlands,Amsterdam,52.3676,4.9041,United Kingdom,Edinburgh,55.9533,-3.1883,1180,733.22
+United Kingdom,Edinburgh,55.9533,-3.1883,Netherlands,Amsterdam,52.3676,4.9041,1180,733.22
+Denmark,Copenhagen,55.6761,12.5683,Germany,Stuttgart,48.7758,9.1829,1178,731.98
+Germany,Stuttgart,48.7758,9.1829,Denmark,Copenhagen,55.6761,12.5683,1178,731.98
+Germany,Berlin,52.52,13.405,Italy,Turin,45.0703,7.6869,1172,728.25
+Italy,Turin,45.0703,7.6869,Germany,Berlin,52.52,13.405,1172,728.25
+Austria,Vienna,48.2082,16.3738,Netherlands,Rotterdam,51.9225,4.4792,1169,726.38
+Netherlands,Rotterdam,51.9225,4.4792,Austria,Vienna,48.2082,16.3738,1169,726.38
+Austria,Vienna,48.2082,16.3738,Italy,Rome,41.9028,12.4964,1168,725.76
+Germany,Berlin,52.52,13.405,Italy,Milan,45.4642,9.19,1168,725.76
+Italy,Milan,45.4642,9.19,Germany,Berlin,52.52,13.405,1168,725.76
+Italy,Rome,41.9028,12.4964,Austria,Vienna,48.2082,16.3738,1168,725.76
+Italy,Turin,45.0703,7.6869,Netherlands,The Hague,52.0705,4.3007,1167,725.14
+Netherlands,The Hague,52.0705,4.3007,Italy,Turin,45.0703,7.6869,1167,725.14
+Denmark,Copenhagen,55.6761,12.5683,France,Strasbourg,48.5734,7.7521,1158,719.55
+France,Strasbourg,48.5734,7.7521,Denmark,Copenhagen,55.6761,12.5683,1158,719.55
+Italy,Milan,45.4642,9.19,Netherlands,Amsterdam,52.3676,4.9041,1154,717.06
+Netherlands,Amsterdam,52.3676,4.9041,Italy,Milan,45.4642,9.19,1154,717.06
+Belgium,Antwerp,51.2194,4.4025,France,Marseille,43.2965,5.3698,1149,713.96
+France,Marseille,43.2965,5.3698,Belgium,Antwerp,51.2194,4.4025,1149,713.96
+France,Paris,48.8566,2.3522,Italy,Venice,45.4408,12.3155,1145,711.47
+Italy,Venice,45.4408,12.3155,France,Paris,48.8566,2.3522,1145,711.47
+France,Marseille,43.2965,5.3698,Spain,Madrid,40.4168,-3.7038,1143,710.23
+Spain,Madrid,40.4168,-3.7038,France,Marseille,43.2965,5.3698,1143,710.23
+Netherlands,The Hague,52.0705,4.3007,United Kingdom,Edinburgh,55.9533,-3.1883,1142,709.61
+United Kingdom,Edinburgh,55.9533,-3.1883,Netherlands,The Hague,52.0705,4.3007,1142,709.61
+Germany,Berlin,52.52,13.405,Switzerland,Geneva,46.2044,6.1432,1141,708.98
+Switzerland,Geneva,46.2044,6.1432,Germany,Berlin,52.52,13.405,1141,708.98
+France,Lyon,45.764,4.8357,Germany,Hamburg,53.5511,9.9937,1137,706.50
+Germany,Hamburg,53.5511,9.9937,France,Lyon,45.764,4.8357,1137,706.50
+Luxembourg,Luxembourg,49.6117,6.1319,Spain,Barcelona,41.3851,2.1734,1137,706.50
+Spain,Barcelona,41.3851,2.1734,Luxembourg,Luxembourg,49.6117,6.1319,1137,706.50
+Belgium,Antwerp,51.2194,4.4025,Italy,Genoa,44.4056,8.9463,1136,705.88
+Italy,Genoa,44.4056,8.9463,Belgium,Antwerp,51.2194,4.4025,1136,705.88
+Austria,Vienna,48.2082,16.3738,Belgium,Brussels,50.8503,4.3517,1134,704.63
+Belgium,Brussels,50.8503,4.3517,Austria,Vienna,48.2082,16.3738,1134,704.63
+France,Le Havre,49.4944,0.1079,France,Nice,43.7102,7.262,1132,703.39
+France,Nice,43.7102,7.262,France,Le Havre,49.4944,0.1079,1132,703.39
+France,Paris,48.8566,2.3522,Spain,Barcelona,41.3851,2.1734,1125,699.04
+Spain,Barcelona,41.3851,2.1734,France,Paris,48.8566,2.3522,1125,699.04
+Italy,Turin,45.0703,7.6869,United Kingdom,London,51.5074,-0.1278,1118,694.69
+United Kingdom,London,51.5074,-0.1278,Italy,Turin,45.0703,7.6869,1118,694.69
+Czech Republic,Prague,50.0755,14.4378,France,Lyon,45.764,4.8357,1116,693.45
+France,Lyon,45.764,4.8357,Czech Republic,Prague,50.0755,14.4378,1116,693.45
+France,Calais,50.9513,1.8587,Italy,Turin,45.0703,7.6869,1110,689.72
+Italy,Turin,45.0703,7.6869,France,Calais,50.9513,1.8587,1110,689.72
+Germany,Berlin,52.52,13.405,Italy,Venice,45.4408,12.3155,1108,688.48
+Italy,Venice,45.4408,12.3155,Germany,Berlin,52.52,13.405,1108,688.48
+Denmark,Copenhagen,55.6761,12.5683,Luxembourg,Luxembourg,49.6117,6.1319,1106,687.24
+France,Nice,43.7102,7.262,Luxembourg,Luxembourg,49.6117,6.1319,1106,687.24
+Luxembourg,Luxembourg,49.6117,6.1319,France,Nice,43.7102,7.262,1106,687.24
+Luxembourg,Luxembourg,49.6117,6.1319,Denmark,Copenhagen,55.6761,12.5683,1106,687.24
+Italy,Milan,45.4642,9.19,Netherlands,The Hague,52.0705,4.3007,1104,685.99
+Netherlands,The Hague,52.0705,4.3007,Italy,Milan,45.4642,9.19,1104,685.99
+Italy,Milan,45.4642,9.19,Spain,Barcelona,41.3851,2.1734,1102,684.75
+Spain,Barcelona,41.3851,2.1734,Italy,Milan,45.4642,9.19,1102,684.75
+Netherlands,Rotterdam,51.9225,4.4792,United Kingdom,Edinburgh,55.9533,-3.1883,1100,683.51
+United Kingdom,Edinburgh,55.9533,-3.1883,Netherlands,Rotterdam,51.9225,4.4792,1100,683.51
+Czech Republic,Prague,50.0755,14.4378,France,Paris,48.8566,2.3522,1094,679.78
+France,Paris,48.8566,2.3522,Czech Republic,Prague,50.0755,14.4378,1094,679.78
+France,Paris,48.8566,2.3522,Germany,Berlin,52.52,13.405,1094,679.78
+Germany,Berlin,52.52,13.405,France,Paris,48.8566,2.3522,1094,679.78
+Italy,Rome,41.9028,12.4964,Switzerland,Geneva,46.2044,6.1432,1093,679.16
+Switzerland,Geneva,46.2044,6.1432,Italy,Rome,41.9028,12.4964,1093,679.16
+Belgium,Antwerp,51.2194,4.4025,Italy,Turin,45.0703,7.6869,1090,677.29
+Belgium,Brussels,50.8503,4.3517,Italy,Genoa,44.4056,8.9463,1090,677.29
+Italy,Genoa,44.4056,8.9463,Belgium,Brussels,50.8503,4.3517,1090,677.29
+Italy,Turin,45.0703,7.6869,Belgium,Antwerp,51.2194,4.4025,1090,677.29
+France,Le Havre,49.4944,0.1079,Italy,Milan,45.4642,9.19,1087,675.43
+Italy,Milan,45.4642,9.19,France,Le Havre,49.4944,0.1079,1087,675.43
+France,Nice,43.7102,7.262,Germany,Frankfurt,50.1109,8.6821,1085,674.19
+Germany,Frankfurt,50.1109,8.6821,France,Nice,43.7102,7.262,1085,674.19
+France,Calais,50.9513,1.8587,France,Marseille,43.2965,5.3698,1083,672.94
+France,Marseille,43.2965,5.3698,France,Calais,50.9513,1.8587,1083,672.94
+Czech Republic,Prague,50.0755,14.4378,France,Calais,50.9513,1.8587,1082,672.32
+France,Calais,50.9513,1.8587,Czech Republic,Prague,50.0755,14.4378,1082,672.32
+France,Le Havre,49.4944,0.1079,Germany,Hamburg,53.5511,9.9937,1082,672.32
+France,Paris,48.8566,2.3522,United Kingdom,Edinburgh,55.9533,-3.1883,1082,672.32
+Germany,Hamburg,53.5511,9.9937,France,Le Havre,49.4944,0.1079,1082,672.32
+Germany,Hamburg,53.5511,9.9937,Switzerland,Geneva,46.2044,6.1432,1082,672.32
+Switzerland,Geneva,46.2044,6.1432,Germany,Hamburg,53.5511,9.9937,1082,672.32
+United Kingdom,Edinburgh,55.9533,-3.1883,France,Paris,48.8566,2.3522,1082,672.32
+Italy,Milan,45.4642,9.19,Netherlands,Rotterdam,51.9225,4.4792,1080,671.08
+Netherlands,Rotterdam,51.9225,4.4792,Italy,Milan,45.4642,9.19,1080,671.08
+Denmark,Copenhagen,55.6761,12.5683,France,Calais,50.9513,1.8587,1075,667.97
+France,Calais,50.9513,1.8587,Denmark,Copenhagen,55.6761,12.5683,1075,667.97
+Germany,Munich,48.1351,11.582,United Kingdom,London,51.5074,-0.1278,1075,667.97
+United Kingdom,London,51.5074,-0.1278,Germany,Munich,48.1351,11.582,1075,667.97
+France,Le Havre,49.4944,0.1079,United Kingdom,Edinburgh,55.9533,-3.1883,1074,667.35
+United Kingdom,Edinburgh,55.9533,-3.1883,France,Le Havre,49.4944,0.1079,1074,667.35
+France,Strasbourg,48.5734,7.7521,Spain,Barcelona,41.3851,2.1734,1072,666.11
+Germany,Cologne,50.9375,6.9603,Italy,Venice,45.4408,12.3155,1072,666.11
+Italy,Venice,45.4408,12.3155,Germany,Cologne,50.9375,6.9603,1072,666.11
+Spain,Barcelona,41.3851,2.1734,France,Strasbourg,48.5734,7.7521,1072,666.11
+France,Lyon,45.764,4.8357,Italy,Rome,41.9028,12.4964,1066,662.38
+Italy,Rome,41.9028,12.4964,France,Lyon,45.764,4.8357,1066,662.38
+Germany,Cologne,50.9375,6.9603,Italy,Genoa,44.4056,8.9463,1061,659.27
+Italy,Genoa,44.4056,8.9463,Germany,Cologne,50.9375,6.9603,1061,659.27
+Germany,Berlin,52.52,13.405,United Kingdom,London,51.5074,-0.1278,1059,658.03
+United Kingdom,London,51.5074,-0.1278,Germany,Berlin,52.52,13.405,1059,658.03
+France,Calais,50.9513,1.8587,Italy,Milan,45.4642,9.19,1057,656.79
+Italy,Milan,45.4642,9.19,France,Calais,50.9513,1.8587,1057,656.79
+Austria,Vienna,48.2082,16.3738,Switzerland,Geneva,46.2044,6.1432,1055,655.55
+Switzerland,Geneva,46.2044,6.1432,Austria,Vienna,48.2082,16.3738,1055,655.55
+France,Le Havre,49.4944,0.1079,Italy,Turin,45.0703,7.6869,1047,650.58
+Italy,Turin,45.0703,7.6869,France,Le Havre,49.4944,0.1079,1047,650.58
+Belgium,Brussels,50.8503,4.3517,Italy,Turin,45.0703,7.6869,1044,648.71
+Italy,Turin,45.0703,7.6869,Belgium,Brussels,50.8503,4.3517,1044,648.71
+France,Le Havre,49.4944,0.1079,Germany,Munich,48.1351,11.582,1038,644.98
+Germany,Munich,48.1351,11.582,France,Le Havre,49.4944,0.1079,1038,644.98
+Spain,Barcelona,41.3851,2.1734,Switzerland,Zurich,47.3769,8.5417,1036,643.74
+Switzerland,Zurich,47.3769,8.5417,Spain,Barcelona,41.3851,2.1734,1036,643.74
+Belgium,Brussels,50.8503,4.3517,Denmark,Copenhagen,55.6761,12.5683,1035,643.12
+Denmark,Copenhagen,55.6761,12.5683,Belgium,Brussels,50.8503,4.3517,1035,643.12
+France,Marseille,43.2965,5.3698,Germany,Munich,48.1351,11.582,1034,642.50
+Germany,Munich,48.1351,11.582,France,Marseille,43.2965,5.3698,1034,642.50
+Czech Republic,Prague,50.0755,14.4378,Denmark,Copenhagen,55.6761,12.5683,1033,641.88
+Denmark,Copenhagen,55.6761,12.5683,Czech Republic,Prague,50.0755,14.4378,1033,641.88
+Czech Republic,Prague,50.0755,14.4378,Netherlands,The Hague,52.0705,4.3007,1028,638.77
+Netherlands,The Hague,52.0705,4.3007,Czech Republic,Prague,50.0755,14.4378,1028,638.77
+Austria,Vienna,48.2082,16.3738,Italy,Turin,45.0703,7.6869,1026,637.53
+Italy,Turin,45.0703,7.6869,Austria,Vienna,48.2082,16.3738,1026,637.53
+Italy,Venice,45.4408,12.3155,Luxembourg,Luxembourg,49.6117,6.1319,1026,637.53
+Luxembourg,Luxembourg,49.6117,6.1319,Italy,Venice,45.4408,12.3155,1026,637.53
+France,Le Havre,49.4944,0.1079,France,Marseille,43.2965,5.3698,1020,633.80
+France,Marseille,43.2965,5.3698,France,Le Havre,49.4944,0.1079,1020,633.80
+Germany,Frankfurt,50.1109,8.6821,Italy,Venice,45.4408,12.3155,1020,633.80
+Italy,Venice,45.4408,12.3155,Germany,Frankfurt,50.1109,8.6821,1020,633.80
+Germany,Cologne,50.9375,6.9603,Italy,Turin,45.0703,7.6869,1015,630.69
+Italy,Turin,45.0703,7.6869,Germany,Cologne,50.9375,6.9603,1015,630.69
+Netherlands,Amsterdam,52.3676,4.9041,Switzerland,Geneva,46.2044,6.1432,1014,630.07
+Switzerland,Geneva,46.2044,6.1432,Netherlands,Amsterdam,52.3676,4.9041,1014,630.07
+Czech Republic,Prague,50.0755,14.4378,Italy,Genoa,44.4056,8.9463,1007,625.72
+Italy,Genoa,44.4056,8.9463,Czech Republic,Prague,50.0755,14.4378,1007,625.72
+France,Paris,48.8566,2.3522,Italy,Genoa,44.4056,8.9463,1006,625.10
+Italy,Genoa,44.4056,8.9463,France,Paris,48.8566,2.3522,1006,625.10
+Belgium,Antwerp,51.2194,4.4025,United Kingdom,Edinburgh,55.9533,-3.1883,1005,624.48
+United Kingdom,Edinburgh,55.9533,-3.1883,Belgium,Antwerp,51.2194,4.4025,1005,624.48
+France,Marseille,43.2965,5.3698,Germany,Frankfurt,50.1109,8.6821,1004,623.86
+Germany,Frankfurt,50.1109,8.6821,France,Marseille,43.2965,5.3698,1004,623.86
+Belgium,Brussels,50.8503,4.3517,France,Marseille,43.2965,5.3698,999,620.75
+France,Marseille,43.2965,5.3698,Belgium,Brussels,50.8503,4.3517,999,620.75
+France,Calais,50.9513,1.8587,Germany,Munich,48.1351,11.582,998,620.13
+Germany,Munich,48.1351,11.582,France,Calais,50.9513,1.8587,998,620.13
+Belgium,Brussels,50.8503,4.3517,United Kingdom,Edinburgh,55.9533,-3.1883,996,618.89
+United Kingdom,Edinburgh,55.9533,-3.1883,Belgium,Brussels,50.8503,4.3517,996,618.89
+France,Lyon,45.764,4.8357,Netherlands,Amsterdam,52.3676,4.9041,995,618.26
+Netherlands,Amsterdam,52.3676,4.9041,France,Lyon,45.764,4.8357,995,618.26
+Czech Republic,Prague,50.0755,14.4378,Italy,Turin,45.0703,7.6869,991,615.78
+Italy,Turin,45.0703,7.6869,Czech Republic,Prague,50.0755,14.4378,991,615.78
+Germany,Berlin,52.52,13.405,Switzerland,Bern,46.9481,7.4474,986,612.67
+Italy,Rome,41.9028,12.4964,Switzerland,Zurich,47.3769,8.5417,986,612.67
+Switzerland,Bern,46.9481,7.4474,Germany,Berlin,52.52,13.405,986,612.67
+Switzerland,Zurich,47.3769,8.5417,Italy,Rome,41.9028,12.4964,986,612.67
+Austria,Vienna,48.2082,16.3738,Italy,Genoa,44.4056,8.9463,983,610.81
+Italy,Genoa,44.4056,8.9463,Austria,Vienna,48.2082,16.3738,983,610.81
+Belgium,Antwerp,51.2194,4.4025,Italy,Milan,45.4642,9.19,980,608.94
+Italy,Milan,45.4642,9.19,Belgium,Antwerp,51.2194,4.4025,980,608.94
+Switzerland,Bern,46.9481,7.4474,United Kingdom,London,51.5074,-0.1278,975,605.84
+United Kingdom,London,51.5074,-0.1278,Switzerland,Bern,46.9481,7.4474,975,605.84
+Czech Republic,Prague,50.0755,14.4378,Netherlands,Amsterdam,52.3676,4.9041,973,604.59
+Netherlands,Amsterdam,52.3676,4.9041,Czech Republic,Prague,50.0755,14.4378,973,604.59
+Germany,Munich,48.1351,11.582,Italy,Rome,41.9028,12.4964,969,602.11
+Italy,Rome,41.9028,12.4964,Germany,Munich,48.1351,11.582,969,602.11
+Netherlands,The Hague,52.0705,4.3007,Switzerland,Geneva,46.2044,6.1432,964,599.00
+Switzerland,Geneva,46.2044,6.1432,Netherlands,The Hague,52.0705,4.3007,964,599.00
+Switzerland,Zurich,47.3769,8.5417,United Kingdom,London,51.5074,-0.1278,963,598.38
+United Kingdom,London,51.5074,-0.1278,Switzerland,Zurich,47.3769,8.5417,963,598.38
+France,Nice,43.7102,7.262,Italy,Naples,40.8518,14.2681,962,597.76
+Italy,Naples,40.8518,14.2681,France,Nice,43.7102,7.262,962,597.76
+Denmark,Copenhagen,55.6761,12.5683,Netherlands,The Hague,52.0705,4.3007,960,596.52
+Netherlands,The Hague,52.0705,4.3007,Denmark,Copenhagen,55.6761,12.5683,960,596.52
+Czech Republic,Prague,50.0755,14.4378,Switzerland,Geneva,46.2044,6.1432,954,592.79
+Switzerland,Geneva,46.2044,6.1432,Czech Republic,Prague,50.0755,14.4378,954,592.79
+France,Marseille,43.2965,5.3698,Germany,Stuttgart,48.7758,9.1829,948,589.06
+Germany,Stuttgart,48.7758,9.1829,France,Marseille,43.2965,5.3698,948,589.06
+Italy,Genoa,44.4056,8.9463,Spain,Barcelona,41.3851,2.1734,946,587.82
+Spain,Barcelona,41.3851,2.1734,Italy,Genoa,44.4056,8.9463,946,587.82
+France,Lyon,45.764,4.8357,Netherlands,The Hague,52.0705,4.3007,945,587.20
+Netherlands,The Hague,52.0705,4.3007,France,Lyon,45.764,4.8357,945,587.20
+Netherlands,Rotterdam,51.9225,4.4792,Switzerland,Geneva,46.2044,6.1432,940,584.09
+Switzerland,Geneva,46.2044,6.1432,Netherlands,Rotterdam,51.9225,4.4792,940,584.09
+France,Calais,50.9513,1.8587,Germany,Berlin,52.52,13.405,936,581.60
+Germany,Berlin,52.52,13.405,France,Calais,50.9513,1.8587,936,581.60
+Belgium,Brussels,50.8503,4.3517,Italy,Milan,45.4642,9.19,934,580.36
+Italy,Milan,45.4642,9.19,Belgium,Brussels,50.8503,4.3517,934,580.36
+Italy,Naples,40.8518,14.2681,Italy,Turin,45.0703,7.6869,934,580.36
+Italy,Turin,45.0703,7.6869,Italy,Naples,40.8518,14.2681,934,580.36
+Germany,Hamburg,53.5511,9.9937,Switzerland,Zurich,47.3769,8.5417,929,577.25
+Switzerland,Zurich,47.3769,8.5417,Germany,Hamburg,53.5511,9.9937,929,577.25
+France,Lyon,45.764,4.8357,Netherlands,Rotterdam,51.9225,4.4792,921,572.28
+France,Nice,43.7102,7.262,France,Paris,48.8566,2.3522,921,572.28
+France,Paris,48.8566,2.3522,France,Nice,43.7102,7.262,921,572.28
+Netherlands,Rotterdam,51.9225,4.4792,France,Lyon,45.764,4.8357,921,572.28
+Austria,Vienna,48.2082,16.3738,Germany,Cologne,50.9375,6.9603,915,568.55
+Germany,Cologne,50.9375,6.9603,Austria,Vienna,48.2082,16.3738,915,568.55
+Italy,Milan,45.4642,9.19,Italy,Naples,40.8518,14.2681,914,567.93
+Italy,Naples,40.8518,14.2681,Italy,Milan,45.4642,9.19,914,567.93
+Spain,Barcelona,41.3851,2.1734,Switzerland,Bern,46.9481,7.4474,913,567.31
+Switzerland,Bern,46.9481,7.4474,Spain,Barcelona,41.3851,2.1734,913,567.31
+Belgium,Brussels,50.8503,4.3517,Czech Republic,Prague,50.0755,14.4378,911,566.07
+Czech Republic,Prague,50.0755,14.4378,Belgium,Brussels,50.8503,4.3517,911,566.07
+France,Nice,43.7102,7.262,Germany,Munich,48.1351,11.582,911,566.07
+Germany,Munich,48.1351,11.582,France,Nice,43.7102,7.262,911,566.07
+Austria,Vienna,48.2082,16.3738,Switzerland,Bern,46.9481,7.4474,907,563.58
+Switzerland,Bern,46.9481,7.4474,Austria,Vienna,48.2082,16.3738,907,563.58
+Germany,Hamburg,53.5511,9.9937,Switzerland,Bern,46.9481,7.4474,906,562.96
+Switzerland,Bern,46.9481,7.4474,Germany,Hamburg,53.5511,9.9937,906,562.96
+Germany,Cologne,50.9375,6.9603,Italy,Milan,45.4642,9.19,905,562.34
+Italy,Milan,45.4642,9.19,Germany,Cologne,50.9375,6.9603,905,562.34
+Denmark,Copenhagen,55.6761,12.5683,Netherlands,Amsterdam,52.3676,4.9041,904,561.72
+Netherlands,Amsterdam,52.3676,4.9041,Denmark,Copenhagen,55.6761,12.5683,904,561.72
+Italy,Rome,41.9028,12.4964,Switzerland,Bern,46.9481,7.4474,897,557.37
+Switzerland,Bern,46.9481,7.4474,Italy,Rome,41.9028,12.4964,897,557.37
+Austria,Vienna,48.2082,16.3738,Germany,Hamburg,53.5511,9.9937,896,556.75
+Germany,Hamburg,53.5511,9.9937,Austria,Vienna,48.2082,16.3738,896,556.75
+France,Nice,43.7102,7.262,Germany,Stuttgart,48.7758,9.1829,892,554.26
+Germany,Stuttgart,48.7758,9.1829,France,Nice,43.7102,7.262,892,554.26
+Italy,Turin,45.0703,7.6869,Spain,Barcelona,41.3851,2.1734,892,554.26
+Spain,Barcelona,41.3851,2.1734,Italy,Turin,45.0703,7.6869,892,554.26
+Austria,Vienna,48.2082,16.3738,Italy,Milan,45.4642,9.19,887,551.16
+Germany,Hamburg,53.5511,9.9937,United Kingdom,London,51.5074,-0.1278,887,551.16
+Italy,Genoa,44.4056,8.9463,Luxembourg,Luxembourg,49.6117,6.1319,887,551.16
+Italy,Milan,45.4642,9.19,Austria,Vienna,48.2082,16.3738,887,551.16
+Luxembourg,Luxembourg,49.6117,6.1319,Italy,Genoa,44.4056,8.9463,887,551.16
+United Kingdom,London,51.5074,-0.1278,Germany,Hamburg,53.5511,9.9937,887,551.16
+Austria,Vienna,48.2082,16.3738,Luxembourg,Luxembourg,49.6117,6.1319,885,549.91
+Luxembourg,Luxembourg,49.6117,6.1319,Austria,Vienna,48.2082,16.3738,885,549.91
+France,Lyon,45.764,4.8357,United Kingdom,London,51.5074,-0.1278,884,549.29
+United Kingdom,London,51.5074,-0.1278,France,Lyon,45.764,4.8357,884,549.29
+Germany,Frankfurt,50.1109,8.6821,Italy,Genoa,44.4056,8.9463,881,547.43
+Italy,Genoa,44.4056,8.9463,Germany,Frankfurt,50.1109,8.6821,881,547.43
+France,Paris,48.8566,2.3522,Germany,Hamburg,53.5511,9.9937,880,546.81
+Germany,Hamburg,53.5511,9.9937,France,Paris,48.8566,2.3522,880,546.81
+Czech Republic,Prague,50.0755,14.4378,Italy,Milan,45.4642,9.19,875,543.70
+Germany,Munich,48.1351,11.582,Netherlands,Amsterdam,52.3676,4.9041,875,543.70
+Italy,Milan,45.4642,9.19,Czech Republic,Prague,50.0755,14.4378,875,543.70
+Netherlands,Amsterdam,52.3676,4.9041,Switzerland,Bern,46.9481,7.4474,875,543.70
+Netherlands,Amsterdam,52.3676,4.9041,Germany,Munich,48.1351,11.582,875,543.70
+Switzerland,Bern,46.9481,7.4474,Netherlands,Amsterdam,52.3676,4.9041,875,543.70
+Belgium,Antwerp,51.2194,4.4025,Czech Republic,Prague,50.0755,14.4378,870,540.59
+Czech Republic,Prague,50.0755,14.4378,Belgium,Antwerp,51.2194,4.4025,870,540.59
+Germany,Munich,48.1351,11.582,Netherlands,The Hague,52.0705,4.3007,870,540.59
+Netherlands,The Hague,52.0705,4.3007,Germany,Munich,48.1351,11.582,870,540.59
+France,Nice,43.7102,7.262,France,Strasbourg,48.5734,7.7521,868,539.35
+France,Strasbourg,48.5734,7.7521,France,Nice,43.7102,7.262,868,539.35
+Switzerland,Geneva,46.2044,6.1432,United Kingdom,London,51.5074,-0.1278,867,538.73
+United Kingdom,London,51.5074,-0.1278,Switzerland,Geneva,46.2044,6.1432,867,538.73
+Germany,Stuttgart,48.7758,9.1829,United Kingdom,London,51.5074,-0.1278,866,538.11
+United Kingdom,London,51.5074,-0.1278,Germany,Stuttgart,48.7758,9.1829,866,538.11
+Germany,Berlin,52.52,13.405,Switzerland,Zurich,47.3769,8.5417,863,536.24
+Switzerland,Zurich,47.3769,8.5417,Germany,Berlin,52.52,13.405,863,536.24
+Belgium,Antwerp,51.2194,4.4025,Denmark,Copenhagen,55.6761,12.5683,861,535.00
+Denmark,Copenhagen,55.6761,12.5683,Belgium,Antwerp,51.2194,4.4025,861,535.00
+Netherlands,Amsterdam,52.3676,4.9041,Switzerland,Zurich,47.3769,8.5417,861,535.00
+Switzerland,Zurich,47.3769,8.5417,Netherlands,Amsterdam,52.3676,4.9041,861,535.00
+Italy,Turin,45.0703,7.6869,Luxembourg,Luxembourg,49.6117,6.1319,860,534.38
+Luxembourg,Luxembourg,49.6117,6.1319,Italy,Turin,45.0703,7.6869,860,534.38
+Czech Republic,Prague,50.0755,14.4378,Netherlands,Rotterdam,51.9225,4.4792,858,533.14
+Netherlands,Rotterdam,51.9225,4.4792,Czech Republic,Prague,50.0755,14.4378,858,533.14
+France,Marseille,43.2965,5.3698,Italy,Rome,41.9028,12.4964,856,531.89
+Italy,Rome,41.9028,12.4964,France,Marseille,43.2965,5.3698,856,531.89
+France,Calais,50.9513,1.8587,Switzerland,Bern,46.9481,7.4474,854,530.65
+Switzerland,Bern,46.9481,7.4474,France,Calais,50.9513,1.8587,854,530.65
+France,Paris,48.8566,2.3522,Italy,Milan,45.4642,9.19,850,528.17
+Italy,Milan,45.4642,9.19,France,Paris,48.8566,2.3522,850,528.17
+Belgium,Antwerp,51.2194,4.4025,Switzerland,Geneva,46.2044,6.1432,840,521.95
+Switzerland,Geneva,46.2044,6.1432,Belgium,Antwerp,51.2194,4.4025,840,521.95
+France,Paris,48.8566,2.3522,Italy,Turin,45.0703,7.6869,836,519.47
+Italy,Turin,45.0703,7.6869,France,Paris,48.8566,2.3522,836,519.47
+Germany,Frankfurt,50.1109,8.6821,Italy,Turin,45.0703,7.6869,835,518.84
+Italy,Turin,45.0703,7.6869,Germany,Frankfurt,50.1109,8.6821,835,518.84
+Belgium,Antwerp,51.2194,4.4025,Germany,Munich,48.1351,11.582,832,516.98
+France,Le Havre,49.4944,0.1079,Germany,Stuttgart,48.7758,9.1829,832,516.98
+Germany,Munich,48.1351,11.582,Belgium,Antwerp,51.2194,4.4025,832,516.98
+Germany,Stuttgart,48.7758,9.1829,France,Le Havre,49.4944,0.1079,832,516.98
+France,Lyon,45.764,4.8357,Germany,Cologne,50.9375,6.9603,830,515.74
+Germany,Cologne,50.9375,6.9603,France,Lyon,45.764,4.8357,830,515.74
+Austria,Vienna,48.2082,16.3738,France,Strasbourg,48.5734,7.7521,829,515.12
+France,Strasbourg,48.5734,7.7521,Austria,Vienna,48.2082,16.3738,829,515.12
+France,Paris,48.8566,2.3522,Germany,Munich,48.1351,11.582,827,513.87
+Germany,Munich,48.1351,11.582,France,Paris,48.8566,2.3522,827,513.87
+Germany,Munich,48.1351,11.582,Netherlands,Rotterdam,51.9225,4.4792,827,513.87
+Netherlands,Rotterdam,51.9225,4.4792,Germany,Munich,48.1351,11.582,827,513.87
+Netherlands,The Hague,52.0705,4.3007,Switzerland,Bern,46.9481,7.4474,825,512.63
+Switzerland,Bern,46.9481,7.4474,Netherlands,The Hague,52.0705,4.3007,825,512.63
+Belgium,Antwerp,51.2194,4.4025,France,Lyon,45.764,4.8357,821,510.15
+France,Lyon,45.764,4.8357,Belgium,Antwerp,51.2194,4.4025,821,510.15
+France,Calais,50.9513,1.8587,Switzerland,Geneva,46.2044,6.1432,820,509.52
+Switzerland,Geneva,46.2044,6.1432,France,Calais,50.9513,1.8587,820,509.52
+France,Marseille,43.2965,5.3698,Luxembourg,Luxembourg,49.6117,6.1319,816,507.04
+Luxembourg,Luxembourg,49.6117,6.1319,France,Marseille,43.2965,5.3698,816,507.04
+France,Marseille,43.2965,5.3698,France,Strasbourg,48.5734,7.7521,814,505.80
+France,Strasbourg,48.5734,7.7521,France,Marseille,43.2965,5.3698,814,505.80
+Denmark,Copenhagen,55.6761,12.5683,Netherlands,Rotterdam,51.9225,4.4792,813,505.17
+Netherlands,Rotterdam,51.9225,4.4792,Denmark,Copenhagen,55.6761,12.5683,813,505.17
+France,Marseille,43.2965,5.3698,Italy,Venice,45.4408,12.3155,812,504.55
+Italy,Venice,45.4408,12.3155,France,Marseille,43.2965,5.3698,812,504.55
+Belgium,Brussels,50.8503,4.3517,Germany,Munich,48.1351,11.582,811,503.93
+Germany,Munich,48.1351,11.582,Belgium,Brussels,50.8503,4.3517,811,503.93
+Netherlands,The Hague,52.0705,4.3007,Switzerland,Zurich,47.3769,8.5417,811,503.93
+Switzerland,Zurich,47.3769,8.5417,Netherlands,The Hague,52.0705,4.3007,811,503.93
+France,Marseille,43.2965,5.3698,France,Paris,48.8566,2.3522,809,502.69
+France,Paris,48.8566,2.3522,France,Marseille,43.2965,5.3698,809,502.69
+France,Strasbourg,48.5734,7.7521,Italy,Venice,45.4408,12.3155,806,500.83
+Italy,Venice,45.4408,12.3155,France,Strasbourg,48.5734,7.7521,806,500.83
+Netherlands,Rotterdam,51.9225,4.4792,Switzerland,Bern,46.9481,7.4474,802,498.34
+Switzerland,Bern,46.9481,7.4474,Netherlands,Rotterdam,51.9225,4.4792,802,498.34
+France,Strasbourg,48.5734,7.7521,Germany,Berlin,52.52,13.405,801,497.72
+Germany,Berlin,52.52,13.405,France,Strasbourg,48.5734,7.7521,801,497.72
+Denmark,Copenhagen,55.6761,12.5683,Germany,Frankfurt,50.1109,8.6821,799,496.48
+Germany,Frankfurt,50.1109,8.6821,Denmark,Copenhagen,55.6761,12.5683,799,496.48
+Italy,Naples,40.8518,14.2681,Italy,Venice,45.4408,12.3155,799,496.48
+Italy,Venice,45.4408,12.3155,Italy,Naples,40.8518,14.2681,799,496.48
+Czech Republic,Prague,50.0755,14.4378,Italy,Venice,45.4408,12.3155,798,495.85
+France,Calais,50.9513,1.8587,Germany,Hamburg,53.5511,9.9937,798,495.85
+Germany,Hamburg,53.5511,9.9937,France,Calais,50.9513,1.8587,798,495.85
+Italy,Venice,45.4408,12.3155,Czech Republic,Prague,50.0755,14.4378,798,495.85
+France,Calais,50.9513,1.8587,United Kingdom,Edinburgh,55.9533,-3.1883,792,492.13
+France,Calais,50.9513,1.8587,Germany,Stuttgart,48.7758,9.1829,792,492.13
+Germany,Stuttgart,48.7758,9.1829,France,Calais,50.9513,1.8587,792,492.13
+United Kingdom,Edinburgh,55.9533,-3.1883,France,Calais,50.9513,1.8587,792,492.13
+France,Lyon,45.764,4.8357,Italy,Venice,45.4408,12.3155,789,490.26
+Italy,Venice,45.4408,12.3155,France,Lyon,45.764,4.8357,789,490.26
+Netherlands,Rotterdam,51.9225,4.4792,Switzerland,Zurich,47.3769,8.5417,787,489.02
+Switzerland,Zurich,47.3769,8.5417,Netherlands,Rotterdam,51.9225,4.4792,787,489.02
+Austria,Vienna,48.2082,16.3738,Switzerland,Zurich,47.3769,8.5417,784,487.15
+Switzerland,Zurich,47.3769,8.5417,Austria,Vienna,48.2082,16.3738,784,487.15
+Belgium,Brussels,50.8503,4.3517,Germany,Berlin,52.52,13.405,782,485.91
+Germany,Berlin,52.52,13.405,Belgium,Brussels,50.8503,4.3517,782,485.91
+Czech Republic,Prague,50.0755,14.4378,Germany,Stuttgart,48.7758,9.1829,773,480.32
+Germany,Stuttgart,48.7758,9.1829,Czech Republic,Prague,50.0755,14.4378,773,480.32
+France,Le Havre,49.4944,0.1079,Switzerland,Zurich,47.3769,8.5417,767,476.59
+France,Le Havre,49.4944,0.1079,Switzerland,Bern,46.9481,7.4474,767,476.59
+Germany,Berlin,52.52,13.405,Luxembourg,Luxembourg,49.6117,6.1319,767,476.59
+Luxembourg,Luxembourg,49.6117,6.1319,Germany,Berlin,52.52,13.405,767,476.59
+Switzerland,Bern,46.9481,7.4474,France,Le Havre,49.4944,0.1079,767,476.59
+Switzerland,Zurich,47.3769,8.5417,France,Le Havre,49.4944,0.1079,767,476.59
+Czech Republic,Prague,50.0755,14.4378,Switzerland,Bern,46.9481,7.4474,766,475.97
+Switzerland,Bern,46.9481,7.4474,Czech Republic,Prague,50.0755,14.4378,766,475.97
+Germany,Cologne,50.9375,6.9603,Switzerland,Geneva,46.2044,6.1432,765,475.35
+Switzerland,Geneva,46.2044,6.1432,Germany,Cologne,50.9375,6.9603,765,475.35
+France,Calais,50.9513,1.8587,Switzerland,Zurich,47.3769,8.5417,764,474.73
+Switzerland,Zurich,47.3769,8.5417,France,Calais,50.9513,1.8587,764,474.73
+Germany,Hamburg,53.5511,9.9937,Luxembourg,Luxembourg,49.6117,6.1319,761,472.86
+Luxembourg,Luxembourg,49.6117,6.1319,Germany,Hamburg,53.5511,9.9937,761,472.86
+France,Le Havre,49.4944,0.1079,Germany,Frankfurt,50.1109,8.6821,758,471.00
+Germany,Frankfurt,50.1109,8.6821,France,Le Havre,49.4944,0.1079,758,471.00
+Italy,Genoa,44.4056,8.9463,Italy,Naples,40.8518,14.2681,758,471.00
+Italy,Naples,40.8518,14.2681,Italy,Genoa,44.4056,8.9463,758,471.00
+Spain,Barcelona,41.3851,2.1734,Switzerland,Geneva,46.2044,6.1432,758,471.00
+Switzerland,Geneva,46.2044,6.1432,Spain,Barcelona,41.3851,2.1734,758,471.00
+France,Le Havre,49.4944,0.1079,Switzerland,Geneva,46.2044,6.1432,757,470.38
+Switzerland,Geneva,46.2044,6.1432,France,Le Havre,49.4944,0.1079,757,470.38
+France,Calais,50.9513,1.8587,France,Lyon,45.764,4.8357,755,469.14
+France,Lyon,45.764,4.8357,France,Calais,50.9513,1.8587,755,469.14
+Germany,Hamburg,53.5511,9.9937,Germany,Munich,48.1351,11.582,755,469.14
+Germany,Munich,48.1351,11.582,Germany,Hamburg,53.5511,9.9937,755,469.14
+France,Lyon,45.764,4.8357,Germany,Munich,48.1351,11.582,753,467.89
+Germany,Munich,48.1351,11.582,France,Lyon,45.764,4.8357,753,467.89
+Czech Republic,Prague,50.0755,14.4378,Luxembourg,Luxembourg,49.6117,6.1319,746,463.54
+Luxembourg,Luxembourg,49.6117,6.1319,Czech Republic,Prague,50.0755,14.4378,746,463.54
+France,Strasbourg,48.5734,7.7521,United Kingdom,London,51.5074,-0.1278,744,462.30
+United Kingdom,London,51.5074,-0.1278,France,Strasbourg,48.5734,7.7521,744,462.30
+Denmark,Copenhagen,55.6761,12.5683,Germany,Berlin,52.52,13.405,743,461.68
+Germany,Berlin,52.52,13.405,Denmark,Copenhagen,55.6761,12.5683,743,461.68
+Italy,Milan,45.4642,9.19,Luxembourg,Luxembourg,49.6117,6.1319,731,454.22
+Luxembourg,Luxembourg,49.6117,6.1319,Italy,Milan,45.4642,9.19,731,454.22
+Denmark,Copenhagen,55.6761,12.5683,Germany,Cologne,50.9375,6.9603,730,453.60
+Germany,Cologne,50.9375,6.9603,Denmark,Copenhagen,55.6761,12.5683,730,453.60
+France,Nice,43.7102,7.262,Italy,Rome,41.9028,12.4964,729,452.98
+Germany,Hamburg,53.5511,9.9937,Germany,Stuttgart,48.7758,9.1829,729,452.98
+Germany,Stuttgart,48.7758,9.1829,Germany,Hamburg,53.5511,9.9937,729,452.98
+Italy,Rome,41.9028,12.4964,France,Nice,43.7102,7.262,729,452.98
+Germany,Frankfurt,50.1109,8.6821,United Kingdom,London,51.5074,-0.1278,727,451.74
+United Kingdom,London,51.5074,-0.1278,Germany,Frankfurt,50.1109,8.6821,727,451.74
+Austria,Vienna,48.2082,16.3738,Germany,Frankfurt,50.1109,8.6821,725,450.49
+Germany,Frankfurt,50.1109,8.6821,Italy,Milan,45.4642,9.19,725,450.49
+Germany,Frankfurt,50.1109,8.6821,Austria,Vienna,48.2082,16.3738,725,450.49
+Italy,Milan,45.4642,9.19,Germany,Frankfurt,50.1109,8.6821,725,450.49
+Belgium,Antwerp,51.2194,4.4025,Germany,Berlin,52.52,13.405,723,449.25
+Germany,Berlin,52.52,13.405,Belgium,Antwerp,51.2194,4.4025,723,449.25
+France,Marseille,43.2965,5.3698,Switzerland,Zurich,47.3769,8.5417,721,448.01
+Switzerland,Zurich,47.3769,8.5417,France,Marseille,43.2965,5.3698,721,448.01
+Germany,Berlin,52.52,13.405,Netherlands,The Hague,52.0705,4.3007,712,442.42
+Netherlands,The Hague,52.0705,4.3007,Germany,Berlin,52.52,13.405,712,442.42
+France,Strasbourg,48.5734,7.7521,Germany,Hamburg,53.5511,9.9937,709,440.55
+Germany,Hamburg,53.5511,9.9937,France,Strasbourg,48.5734,7.7521,709,440.55
+Germany,Munich,48.1351,11.582,Italy,Genoa,44.4056,8.9463,707,439.31
+Italy,Genoa,44.4056,8.9463,Germany,Munich,48.1351,11.582,707,439.31
+Italy,Venice,45.4408,12.3155,Switzerland,Geneva,46.2044,6.1432,707,439.31
+Switzerland,Geneva,46.2044,6.1432,Italy,Venice,45.4408,12.3155,707,439.31
+Belgium,Antwerp,51.2194,4.4025,Switzerland,Bern,46.9481,7.4474,704,437.45
+Switzerland,Bern,46.9481,7.4474,Belgium,Antwerp,51.2194,4.4025,704,437.45
+Germany,Stuttgart,48.7758,9.1829,Netherlands,Amsterdam,52.3676,4.9041,703,436.82
+Netherlands,Amsterdam,52.3676,4.9041,Germany,Stuttgart,48.7758,9.1829,703,436.82
+Italy,Rome,41.9028,12.4964,Italy,Turin,45.0703,7.6869,701,435.58
+Italy,Turin,45.0703,7.6869,Italy,Rome,41.9028,12.4964,701,435.58
+Germany,Berlin,52.52,13.405,Netherlands,Rotterdam,51.9225,4.4792,697,433.10
+Netherlands,Rotterdam,51.9225,4.4792,Germany,Berlin,52.52,13.405,697,433.10
+France,Le Havre,49.4944,0.1079,France,Lyon,45.764,4.8357,692,429.99
+France,Lyon,45.764,4.8357,France,Le Havre,49.4944,0.1079,692,429.99
+Germany,Munich,48.1351,11.582,Italy,Turin,45.0703,7.6869,691,429.37
+Italy,Turin,45.0703,7.6869,Germany,Munich,48.1351,11.582,691,429.37
+Germany,Stuttgart,48.7758,9.1829,Italy,Genoa,44.4056,8.9463,688,427.50
+Italy,Genoa,44.4056,8.9463,Germany,Stuttgart,48.7758,9.1829,688,427.50
+Belgium,Antwerp,51.2194,4.4025,Switzerland,Zurich,47.3769,8.5417,687,426.88
+Switzerland,Zurich,47.3769,8.5417,Belgium,Antwerp,51.2194,4.4025,687,426.88
+France,Nice,43.7102,7.262,Spain,Barcelona,41.3851,2.1734,685,425.64
+Spain,Barcelona,41.3851,2.1734,France,Nice,43.7102,7.262,685,425.64
+France,Strasbourg,48.5734,7.7521,Netherlands,Amsterdam,52.3676,4.9041,683,424.40
+Netherlands,Amsterdam,52.3676,4.9041,France,Strasbourg,48.5734,7.7521,683,424.40
+Italy,Milan,45.4642,9.19,Italy,Rome,41.9028,12.4964,681,423.15
+Italy,Rome,41.9028,12.4964,Italy,Milan,45.4642,9.19,681,423.15
+Germany,Stuttgart,48.7758,9.1829,Italy,Venice,45.4408,12.3155,680,422.53
+Italy,Venice,45.4408,12.3155,Germany,Stuttgart,48.7758,9.1829,680,422.53
+Austria,Vienna,48.2082,16.3738,Germany,Stuttgart,48.7758,9.1829,676,420.05
+Czech Republic,Prague,50.0755,14.4378,Switzerland,Zurich,47.3769,8.5417,676,420.05
+Germany,Stuttgart,48.7758,9.1829,Austria,Vienna,48.2082,16.3738,676,420.05
+Germany,Stuttgart,48.7758,9.1829,Netherlands,Rotterdam,51.9225,4.4792,676,420.05
+Netherlands,Rotterdam,51.9225,4.4792,Germany,Stuttgart,48.7758,9.1829,676,420.05
+Switzerland,Zurich,47.3769,8.5417,Czech Republic,Prague,50.0755,14.4378,676,420.05
+Belgium,Brussels,50.8503,4.3517,Switzerland,Geneva,46.2044,6.1432,674,418.80
+Switzerland,Geneva,46.2044,6.1432,Belgium,Brussels,50.8503,4.3517,674,418.80
+Germany,Stuttgart,48.7758,9.1829,Netherlands,The Hague,52.0705,4.3007,673,418.18
+Netherlands,The Hague,52.0705,4.3007,Germany,Stuttgart,48.7758,9.1829,673,418.18
+Belgium,Brussels,50.8503,4.3517,France,Lyon,45.764,4.8357,671,416.94
+France,Lyon,45.764,4.8357,Belgium,Brussels,50.8503,4.3517,671,416.94
+France,Le Havre,49.4944,0.1079,Netherlands,Amsterdam,52.3676,4.9041,670,416.32
+Netherlands,Amsterdam,52.3676,4.9041,France,Le Havre,49.4944,0.1079,670,416.32
+France,Strasbourg,48.5734,7.7521,Netherlands,The Hague,52.0705,4.3007,668,415.08
+Netherlands,The Hague,52.0705,4.3007,France,Strasbourg,48.5734,7.7521,668,415.08
+France,Le Havre,49.4944,0.1079,France,Strasbourg,48.5734,7.7521,667,414.45
+France,Lyon,45.764,4.8357,Germany,Stuttgart,48.7758,9.1829,667,414.45
+France,Strasbourg,48.5734,7.7521,Italy,Genoa,44.4056,8.9463,667,414.45
+France,Strasbourg,48.5734,7.7521,France,Le Havre,49.4944,0.1079,667,414.45
+Germany,Stuttgart,48.7758,9.1829,France,Lyon,45.764,4.8357,667,414.45
+Italy,Genoa,44.4056,8.9463,France,Strasbourg,48.5734,7.7521,667,414.45
+Austria,Vienna,48.2082,16.3738,Germany,Berlin,52.52,13.405,666,413.83
+Germany,Berlin,52.52,13.405,Austria,Vienna,48.2082,16.3738,666,413.83
+France,Nice,43.7102,7.262,Switzerland,Zurich,47.3769,8.5417,665,413.21
+Switzerland,Zurich,47.3769,8.5417,France,Nice,43.7102,7.262,665,413.21
+Belgium,Antwerp,51.2194,4.4025,Germany,Stuttgart,48.7758,9.1829,659,409.48
+Czech Republic,Prague,50.0755,14.4378,Germany,Cologne,50.9375,6.9603,659,409.48
+Germany,Cologne,50.9375,6.9603,Czech Republic,Prague,50.0755,14.4378,659,409.48
+Germany,Stuttgart,48.7758,9.1829,Belgium,Antwerp,51.2194,4.4025,659,409.48
+United Kingdom,Edinburgh,55.9533,-3.1883,United Kingdom,London,51.5074,-0.1278,656,407.62
+United Kingdom,London,51.5074,-0.1278,United Kingdom,Edinburgh,55.9533,-3.1883,656,407.62
+Belgium,Brussels,50.8503,4.3517,Switzerland,Bern,46.9481,7.4474,655,407.00
+Switzerland,Bern,46.9481,7.4474,Belgium,Brussels,50.8503,4.3517,655,407.00
+Germany,Berlin,52.52,13.405,Netherlands,Amsterdam,52.3676,4.9041,649,403.27
+Netherlands,Amsterdam,52.3676,4.9041,Germany,Berlin,52.52,13.405,649,403.27
+France,Lyon,45.764,4.8357,Spain,Barcelona,41.3851,2.1734,644,400.16
+France,Strasbourg,48.5734,7.7521,Netherlands,Rotterdam,51.9225,4.4792,644,400.16
+Netherlands,Rotterdam,51.9225,4.4792,France,Strasbourg,48.5734,7.7521,644,400.16
+Spain,Barcelona,41.3851,2.1734,France,Lyon,45.764,4.8357,644,400.16
+Germany,Stuttgart,48.7758,9.1829,Italy,Turin,45.0703,7.6869,642,398.92
+Italy,Turin,45.0703,7.6869,Germany,Stuttgart,48.7758,9.1829,642,398.92
+Italy,Venice,45.4408,12.3155,Switzerland,Bern,46.9481,7.4474,642,398.92
+Switzerland,Bern,46.9481,7.4474,Italy,Venice,45.4408,12.3155,642,398.92
+Belgium,Brussels,50.8503,4.3517,Germany,Stuttgart,48.7758,9.1829,641,398.30
+Belgium,Brussels,50.8503,4.3517,Switzerland,Zurich,47.3769,8.5417,641,398.30
+Germany,Stuttgart,48.7758,9.1829,Belgium,Brussels,50.8503,4.3517,641,398.30
+Italy,Genoa,44.4056,8.9463,Switzerland,Zurich,47.3769,8.5417,641,398.30
+Switzerland,Zurich,47.3769,8.5417,Belgium,Brussels,50.8503,4.3517,641,398.30
+Switzerland,Zurich,47.3769,8.5417,Italy,Genoa,44.4056,8.9463,641,398.30
+France,Lyon,45.764,4.8357,Germany,Frankfurt,50.1109,8.6821,640,397.68
+Germany,Frankfurt,50.1109,8.6821,France,Lyon,45.764,4.8357,640,397.68
+Czech Republic,Prague,50.0755,14.4378,France,Strasbourg,48.5734,7.7521,638,396.43
+France,Nice,43.7102,7.262,Switzerland,Bern,46.9481,7.4474,638,396.43
+France,Strasbourg,48.5734,7.7521,Czech Republic,Prague,50.0755,14.4378,638,396.43
+Portugal,Lisbon,38.7169,-9.1399,Spain,Madrid,40.4168,-3.7038,638,396.43
+Spain,Madrid,40.4168,-3.7038,Portugal,Lisbon,38.7169,-9.1399,638,396.43
+Switzerland,Bern,46.9481,7.4474,France,Nice,43.7102,7.262,638,396.43
+Germany,Berlin,52.52,13.405,Germany,Stuttgart,48.7758,9.1829,636,395.19
+Germany,Stuttgart,48.7758,9.1829,Germany,Berlin,52.52,13.405,636,395.19
+Spain,Barcelona,41.3851,2.1734,Spain,Madrid,40.4168,-3.7038,628,390.22
+Spain,Madrid,40.4168,-3.7038,Spain,Barcelona,41.3851,2.1734,628,390.22
+France,Calais,50.9513,1.8587,France,Strasbourg,48.5734,7.7521,627,389.60
+France,Strasbourg,48.5734,7.7521,France,Calais,50.9513,1.8587,627,389.60
+France,Calais,50.9513,1.8587,Germany,Frankfurt,50.1109,8.6821,621,385.87
+France,Paris,48.8566,2.3522,Germany,Stuttgart,48.7758,9.1829,621,385.87
+France,Strasbourg,48.5734,7.7521,Italy,Turin,45.0703,7.6869,621,385.87
+Germany,Frankfurt,50.1109,8.6821,France,Calais,50.9513,1.8587,621,385.87
+Germany,Stuttgart,48.7758,9.1829,France,Paris,48.8566,2.3522,621,385.87
+Italy,Turin,45.0703,7.6869,France,Strasbourg,48.5734,7.7521,621,385.87
+Germany,Cologne,50.9375,6.9603,Switzerland,Zurich,47.3769,8.5417,612,380.28
+Switzerland,Zurich,47.3769,8.5417,Germany,Cologne,50.9375,6.9603,612,380.28
+Austria,Vienna,48.2082,16.3738,Italy,Venice,45.4408,12.3155,610,379.04
+Italy,Venice,45.4408,12.3155,Austria,Vienna,48.2082,16.3738,610,379.04
+Germany,Berlin,52.52,13.405,Germany,Munich,48.1351,11.582,604,375.31
+Germany,Munich,48.1351,11.582,Germany,Berlin,52.52,13.405,604,375.31
+Italy,Venice,45.4408,12.3155,Switzerland,Zurich,47.3769,8.5417,600,372.82
+Switzerland,Zurich,47.3769,8.5417,Italy,Venice,45.4408,12.3155,600,372.82
+France,Marseille,43.2965,5.3698,Switzerland,Bern,46.9481,7.4474,598,371.58
+Switzerland,Bern,46.9481,7.4474,France,Marseille,43.2965,5.3698,598,371.58
+France,Paris,48.8566,2.3522,Germany,Frankfurt,50.1109,8.6821,592,367.85
+Germany,Cologne,50.9375,6.9603,Germany,Munich,48.1351,11.582,592,367.85
+Germany,Frankfurt,50.1109,8.6821,France,Paris,48.8566,2.3522,592,367.85
+Germany,Munich,48.1351,11.582,Germany,Cologne,50.9375,6.9603,592,367.85
+Germany,Munich,48.1351,11.582,Switzerland,Geneva,46.2044,6.1432,591,367.23
+Switzerland,Geneva,46.2044,6.1432,Germany,Munich,48.1351,11.582,591,367.23
+France,Marseille,43.2965,5.3698,Italy,Milan,45.4642,9.19,587,364.74
+Italy,Milan,45.4642,9.19,France,Marseille,43.2965,5.3698,587,364.74
+Belgium,Brussels,50.8503,4.3517,Germany,Hamburg,53.5511,9.9937,586,364.12
+Germany,Hamburg,53.5511,9.9937,Belgium,Brussels,50.8503,4.3517,586,364.12
+France,Nice,43.7102,7.262,Italy,Venice,45.4408,12.3155,585,363.50
+Germany,Frankfurt,50.1109,8.6821,Switzerland,Geneva,46.2044,6.1432,585,363.50
+Italy,Venice,45.4408,12.3155,France,Nice,43.7102,7.262,585,363.50
+Switzerland,Geneva,46.2044,6.1432,Germany,Frankfurt,50.1109,8.6821,585,363.50
+Germany,Cologne,50.9375,6.9603,Switzerland,Bern,46.9481,7.4474,583,362.26
+Germany,Munich,48.1351,11.582,Luxembourg,Luxembourg,49.6117,6.1319,583,362.26
+Luxembourg,Luxembourg,49.6117,6.1319,Germany,Munich,48.1351,11.582,583,362.26
+Switzerland,Bern,46.9481,7.4474,Germany,Cologne,50.9375,6.9603,583,362.26
+France,Le Havre,49.4944,0.1079,Netherlands,The Hague,52.0705,4.3007,577,358.53
+Netherlands,The Hague,52.0705,4.3007,France,Le Havre,49.4944,0.1079,577,358.53
+France,Le Havre,49.4944,0.1079,Germany,Cologne,50.9375,6.9603,576,357.91
+Germany,Cologne,50.9375,6.9603,France,Le Havre,49.4944,0.1079,576,357.91
+Germany,Berlin,52.52,13.405,Germany,Cologne,50.9375,6.9603,575,357.29
+Germany,Cologne,50.9375,6.9603,Germany,Berlin,52.52,13.405,575,357.29
+Germany,Berlin,52.52,13.405,Germany,Frankfurt,50.1109,8.6821,570,354.18
+Germany,Frankfurt,50.1109,8.6821,Germany,Berlin,52.52,13.405,570,354.18
+Italy,Genoa,44.4056,8.9463,Switzerland,Geneva,46.2044,6.1432,568,352.94
+Switzerland,Geneva,46.2044,6.1432,Italy,Genoa,44.4056,8.9463,568,352.94
+Italy,Rome,41.9028,12.4964,Italy,Venice,45.4408,12.3155,566,351.70
+Italy,Venice,45.4408,12.3155,Italy,Rome,41.9028,12.4964,566,351.70
+Germany,Hamburg,53.5511,9.9937,Netherlands,The Hague,52.0705,4.3007,560,347.97
+Netherlands,The Hague,52.0705,4.3007,Germany,Hamburg,53.5511,9.9937,560,347.97
+Belgium,Antwerp,51.2194,4.4025,Germany,Hamburg,53.5511,9.9937,557,346.10
+France,Paris,48.8566,2.3522,Switzerland,Zurich,47.3769,8.5417,557,346.10
+Germany,Hamburg,53.5511,9.9937,Belgium,Antwerp,51.2194,4.4025,557,346.10
+Switzerland,Zurich,47.3769,8.5417,France,Paris,48.8566,2.3522,557,346.10
+France,Paris,48.8566,2.3522,Switzerland,Bern,46.9481,7.4474,556,345.48
+Switzerland,Bern,46.9481,7.4474,France,Paris,48.8566,2.3522,556,345.48
+France,Le Havre,49.4944,0.1079,Netherlands,Rotterdam,51.9225,4.4792,553,343.62
+Netherlands,Rotterdam,51.9225,4.4792,France,Le Havre,49.4944,0.1079,553,343.62
+Czech Republic,Prague,50.0755,14.4378,Germany,Frankfurt,50.1109,8.6821,552,343.00
+Germany,Frankfurt,50.1109,8.6821,Czech Republic,Prague,50.0755,14.4378,552,343.00
+Germany,Munich,48.1351,11.582,Italy,Milan,45.4642,9.19,551,342.38
+Italy,Milan,45.4642,9.19,Germany,Munich,48.1351,11.582,551,342.38
+France,Paris,48.8566,2.3522,Switzerland,Geneva,46.2044,6.1432,546,339.27
+Switzerland,Geneva,46.2044,6.1432,France,Paris,48.8566,2.3522,546,339.27
+Belgium,Antwerp,51.2194,4.4025,France,Strasbourg,48.5734,7.7521,544,338.03
+France,Strasbourg,48.5734,7.7521,Belgium,Antwerp,51.2194,4.4025,544,338.03
+France,Lyon,45.764,4.8357,Italy,Genoa,44.4056,8.9463,541,336.16
+Italy,Genoa,44.4056,8.9463,France,Lyon,45.764,4.8357,541,336.16
+Germany,Cologne,50.9375,6.9603,United Kingdom,London,51.5074,-0.1278,538,334.30
+Luxembourg,Luxembourg,49.6117,6.1319,United Kingdom,London,51.5074,-0.1278,538,334.30
+United Kingdom,London,51.5074,-0.1278,Luxembourg,Luxembourg,49.6117,6.1319,538,334.30
+United Kingdom,London,51.5074,-0.1278,Germany,Cologne,50.9375,6.9603,538,334.30
+Germany,Stuttgart,48.7758,9.1829,Italy,Milan,45.4642,9.19,532,330.57
+Italy,Milan,45.4642,9.19,Germany,Stuttgart,48.7758,9.1829,532,330.57
+Italy,Genoa,44.4056,8.9463,Italy,Rome,41.9028,12.4964,525,326.22
+Italy,Rome,41.9028,12.4964,Italy,Genoa,44.4056,8.9463,525,326.22
+France,Marseille,43.2965,5.3698,Spain,Barcelona,41.3851,2.1734,515,320.01
+France,Paris,48.8566,2.3522,Netherlands,Amsterdam,52.3676,4.9041,515,320.01
+Netherlands,Amsterdam,52.3676,4.9041,France,Paris,48.8566,2.3522,515,320.01
+Spain,Barcelona,41.3851,2.1734,France,Marseille,43.2965,5.3698,515,320.01
+France,Le Havre,49.4944,0.1079,Luxembourg,Luxembourg,49.6117,6.1319,512,318.14
+Luxembourg,Luxembourg,49.6117,6.1319,France,Le Havre,49.4944,0.1079,512,318.14
+France,Strasbourg,48.5734,7.7521,Italy,Milan,45.4642,9.19,511,317.52
+Italy,Milan,45.4642,9.19,France,Strasbourg,48.5734,7.7521,511,317.52
+Italy,Genoa,44.4056,8.9463,Netherlands,The Hague,52.0705,4.3007,510,316.90
+Netherlands,The Hague,52.0705,4.3007,Italy,Genoa,44.4056,8.9463,510,316.90
+France,Paris,48.8566,2.3522,Germany,Cologne,50.9375,6.9603,508,315.66
+Germany,Cologne,50.9375,6.9603,France,Paris,48.8566,2.3522,508,315.66
+Germany,Stuttgart,48.7758,9.1829,Switzerland,Geneva,46.2044,6.1432,505,313.79
+Switzerland,Geneva,46.2044,6.1432,Germany,Stuttgart,48.7758,9.1829,505,313.79
+Germany,Munich,48.1351,11.582,Italy,Venice,45.4408,12.3155,504,313.17
+Italy,Venice,45.4408,12.3155,Germany,Munich,48.1351,11.582,504,313.17
+Germany,Frankfurt,50.1109,8.6821,Germany,Hamburg,53.5511,9.9937,497,308.82
+Germany,Hamburg,53.5511,9.9937,Germany,Frankfurt,50.1109,8.6821,497,308.82
+France,Lyon,45.764,4.8357,Italy,Milan,45.4642,9.19,494,306.96
+Italy,Milan,45.4642,9.19,France,Lyon,45.764,4.8357,494,306.96
+Netherlands,Amsterdam,52.3676,4.9041,United Kingdom,London,51.5074,-0.1278,494,306.96
+United Kingdom,London,51.5074,-0.1278,Netherlands,Amsterdam,52.3676,4.9041,494,306.96
+France,Lyon,45.764,4.8357,Luxembourg,Luxembourg,49.6117,6.1319,493,306.34
+Luxembourg,Luxembourg,49.6117,6.1319,France,Lyon,45.764,4.8357,493,306.34
+Belgium,Brussels,50.8503,4.3517,France,Strasbourg,48.5734,7.7521,488,303.23
+France,Strasbourg,48.5734,7.7521,Belgium,Brussels,50.8503,4.3517,488,303.23
+Germany,Hamburg,53.5511,9.9937,Netherlands,Rotterdam,51.9225,4.4792,486,301.99
+Netherlands,Rotterdam,51.9225,4.4792,Germany,Hamburg,53.5511,9.9937,486,301.99
+Luxembourg,Luxembourg,49.6117,6.1319,Switzerland,Geneva,46.2044,6.1432,484,300.74
+Switzerland,Geneva,46.2044,6.1432,Luxembourg,Luxembourg,49.6117,6.1319,484,300.74
+France,Nice,43.7102,7.262,Switzerland,Geneva,46.2044,6.1432,483,300.12
+Switzerland,Geneva,46.2044,6.1432,France,Nice,43.7102,7.262,483,300.12
+France,Lyon,45.764,4.8357,France,Paris,48.8566,2.3522,481,298.88
+France,Paris,48.8566,2.3522,France,Lyon,45.764,4.8357,481,298.88
+Netherlands,The Hague,52.0705,4.3007,United Kingdom,London,51.5074,-0.1278,473,293.91
+United Kingdom,London,51.5074,-0.1278,Netherlands,The Hague,52.0705,4.3007,473,293.91
+Germany,Frankfurt,50.1109,8.6821,Netherlands,Amsterdam,52.3676,4.9041,471,292.67
+Netherlands,Amsterdam,52.3676,4.9041,Germany,Frankfurt,50.1109,8.6821,471,292.67
+France,Paris,48.8566,2.3522,Netherlands,The Hague,52.0705,4.3007,464,288.32
+Netherlands,The Hague,52.0705,4.3007,France,Paris,48.8566,2.3522,464,288.32
+Germany,Frankfurt,50.1109,8.6821,Netherlands,The Hague,52.0705,4.3007,463,287.69
+Netherlands,The Hague,52.0705,4.3007,Germany,Frankfurt,50.1109,8.6821,463,287.69
+Austria,Vienna,48.2082,16.3738,Germany,Munich,48.1351,11.582,458,284.59
+Germany,Munich,48.1351,11.582,Austria,Vienna,48.2082,16.3738,458,284.59
+France,Paris,48.8566,2.3522,France,Strasbourg,48.5734,7.7521,456,283.35
+France,Strasbourg,48.5734,7.7521,France,Paris,48.8566,2.3522,456,283.35
+Germany,Hamburg,53.5511,9.9937,Netherlands,Amsterdam,52.3676,4.9041,455,282.72
+Netherlands,Amsterdam,52.3676,4.9041,Germany,Hamburg,53.5511,9.9937,455,282.72
+Belgium,Antwerp,51.2194,4.4025,France,Le Havre,49.4944,0.1079,453,281.48
+France,Le Havre,49.4944,0.1079,Belgium,Antwerp,51.2194,4.4025,453,281.48
+Italy,Genoa,44.4056,8.9463,Switzerland,Bern,46.9481,7.4474,448,278.37
+Switzerland,Bern,46.9481,7.4474,Italy,Genoa,44.4056,8.9463,448,278.37
+Germany,Cologne,50.9375,6.9603,Germany,Hamburg,53.5511,9.9937,446,277.13
+Germany,Hamburg,53.5511,9.9937,Germany,Cologne,50.9375,6.9603,446,277.13
+Germany,Frankfurt,50.1109,8.6821,Netherlands,Rotterdam,51.9225,4.4792,444,275.89
+Italy,Turin,45.0703,7.6869,Switzerland,Zurich,47.3769,8.5417,444,275.89
+Netherlands,Rotterdam,51.9225,4.4792,Germany,Frankfurt,50.1109,8.6821,444,275.89
+Switzerland,Zurich,47.3769,8.5417,Italy,Turin,45.0703,7.6869,444,275.89
+France,Marseille,43.2965,5.3698,Switzerland,Geneva,46.2044,6.1432,443,275.27
+Switzerland,Geneva,46.2044,6.1432,France,Marseille,43.2965,5.3698,443,275.27
+France,Lyon,45.764,4.8357,France,Nice,43.7102,7.262,440,273.40
+France,Nice,43.7102,7.262,France,Lyon,45.764,4.8357,440,273.40
+France,Paris,48.8566,2.3522,Netherlands,Rotterdam,51.9225,4.4792,440,273.40
+Netherlands,Rotterdam,51.9225,4.4792,France,Paris,48.8566,2.3522,440,273.40
+Luxembourg,Luxembourg,49.6117,6.1319,Switzerland,Zurich,47.3769,8.5417,438,272.16
+Switzerland,Zurich,47.3769,8.5417,Luxembourg,Luxembourg,49.6117,6.1319,438,272.16
+Germany,Munich,48.1351,11.582,Switzerland,Bern,46.9481,7.4474,436,270.92
+Switzerland,Bern,46.9481,7.4474,Germany,Munich,48.1351,11.582,436,270.92
+France,Marseille,43.2965,5.3698,Italy,Turin,45.0703,7.6869,434,269.68
+Italy,Turin,45.0703,7.6869,Italy,Venice,45.4408,12.3155,434,269.68
+Italy,Turin,45.0703,7.6869,France,Marseille,43.2965,5.3698,434,269.68
+Italy,Venice,45.4408,12.3155,Italy,Turin,45.0703,7.6869,434,269.68
+Germany,Frankfurt,50.1109,8.6821,Switzerland,Zurich,47.3769,8.5417,432,268.43
+Netherlands,Rotterdam,51.9225,4.4792,United Kingdom,London,51.5074,-0.1278,432,268.43
+Switzerland,Zurich,47.3769,8.5417,Germany,Frankfurt,50.1109,8.6821,432,268.43
+United Kingdom,London,51.5074,-0.1278,Netherlands,Rotterdam,51.9225,4.4792,432,268.43
+France,Calais,50.9513,1.8587,Germany,Cologne,50.9375,6.9603,431,267.81
+France,Marseille,43.2965,5.3698,Italy,Genoa,44.4056,8.9463,431,267.81
+Germany,Cologne,50.9375,6.9603,France,Calais,50.9513,1.8587,431,267.81
+Italy,Genoa,44.4056,8.9463,France,Marseille,43.2965,5.3698,431,267.81
+Luxembourg,Luxembourg,49.6117,6.1319,Switzerland,Bern,46.9481,7.4474,429,266.57
+Switzerland,Bern,46.9481,7.4474,Luxembourg,Luxembourg,49.6117,6.1319,429,266.57
+France,Lyon,45.764,4.8357,France,Strasbourg,48.5734,7.7521,428,265.95
+France,Strasbourg,48.5734,7.7521,France,Lyon,45.764,4.8357,428,265.95
+Belgium,Antwerp,51.2194,4.4025,Germany,Frankfurt,50.1109,8.6821,427,265.33
+Germany,Frankfurt,50.1109,8.6821,Belgium,Antwerp,51.2194,4.4025,427,265.33
+Germany,Frankfurt,50.1109,8.6821,Switzerland,Bern,46.9481,7.4474,424,263.46
+Switzerland,Bern,46.9481,7.4474,Germany,Frankfurt,50.1109,8.6821,424,263.46
+France,Calais,50.9513,1.8587,Luxembourg,Luxembourg,49.6117,6.1319,414,257.25
+France,Paris,48.8566,2.3522,United Kingdom,London,51.5074,-0.1278,414,257.25
+Luxembourg,Luxembourg,49.6117,6.1319,France,Calais,50.9513,1.8587,414,257.25
+United Kingdom,London,51.5074,-0.1278,France,Paris,48.8566,2.3522,414,257.25
+Italy,Milan,45.4642,9.19,Switzerland,Geneva,46.2044,6.1432,412,256.00
+Switzerland,Geneva,46.2044,6.1432,Italy,Milan,45.4642,9.19,412,256.00
+Belgium,Brussels,50.8503,4.3517,Germany,Frankfurt,50.1109,8.6821,409,254.14
+Germany,Frankfurt,50.1109,8.6821,Belgium,Brussels,50.8503,4.3517,409,254.14
+Belgium,Brussels,50.8503,4.3517,France,Le Havre,49.4944,0.1079,407,252.90
+France,Le Havre,49.4944,0.1079,Belgium,Brussels,50.8503,4.3517,407,252.90
+France,Le Havre,49.4944,0.1079,United Kingdom,London,51.5074,-0.1278,406,252.28
+United Kingdom,London,51.5074,-0.1278,France,Le Havre,49.4944,0.1079,406,252.28
+France,Lyon,45.764,4.8357,Switzerland,Zurich,47.3769,8.5417,404,251.03
+Switzerland,Zurich,47.3769,8.5417,France,Lyon,45.764,4.8357,404,251.03
+France,Strasbourg,48.5734,7.7521,Germany,Cologne,50.9375,6.9603,402,249.79
+Germany,Cologne,50.9375,6.9603,France,Strasbourg,48.5734,7.7521,402,249.79
+Germany,Cologne,50.9375,6.9603,Germany,Stuttgart,48.7758,9.1829,395,245.44
+Germany,Stuttgart,48.7758,9.1829,Germany,Cologne,50.9375,6.9603,395,245.44
+Luxembourg,Luxembourg,49.6117,6.1319,Netherlands,The Hague,52.0705,4.3007,390,242.33
+Netherlands,The Hague,52.0705,4.3007,Luxembourg,Luxembourg,49.6117,6.1319,390,242.33
+France,Calais,50.9513,1.8587,Netherlands,Amsterdam,52.3676,4.9041,385,239.23
+Netherlands,Amsterdam,52.3676,4.9041,France,Calais,50.9513,1.8587,385,239.23
+Germany,Frankfurt,50.1109,8.6821,Germany,Munich,48.1351,11.582,383,237.99
+Germany,Munich,48.1351,11.582,Germany,Frankfurt,50.1109,8.6821,383,237.99
+Italy,Genoa,44.4056,8.9463,Italy,Venice,45.4408,12.3155,381,236.74
+Italy,Venice,45.4408,12.3155,Italy,Genoa,44.4056,8.9463,381,236.74
+France,Paris,48.8566,2.3522,Luxembourg,Luxembourg,49.6117,6.1319,379,235.50
+Luxembourg,Luxembourg,49.6117,6.1319,France,Paris,48.8566,2.3522,379,235.50
+France,Strasbourg,48.5734,7.7521,Switzerland,Geneva,46.2044,6.1432,371,230.53
+France,Strasbourg,48.5734,7.7521,Germany,Munich,48.1351,11.582,371,230.53
+Germany,Munich,48.1351,11.582,France,Strasbourg,48.5734,7.7521,371,230.53
+Luxembourg,Luxembourg,49.6117,6.1319,Netherlands,Amsterdam,52.3676,4.9041,371,230.53
+Netherlands,Amsterdam,52.3676,4.9041,Luxembourg,Luxembourg,49.6117,6.1319,371,230.53
+Switzerland,Geneva,46.2044,6.1432,France,Strasbourg,48.5734,7.7521,371,230.53
+Czech Republic,Prague,50.0755,14.4378,Germany,Munich,48.1351,11.582,363,225.56
+Germany,Munich,48.1351,11.582,Czech Republic,Prague,50.0755,14.4378,363,225.56
+Luxembourg,Luxembourg,49.6117,6.1319,Netherlands,Rotterdam,51.9225,4.4792,361,224.31
+Netherlands,Rotterdam,51.9225,4.4792,Luxembourg,Luxembourg,49.6117,6.1319,361,224.31
+France,Nice,43.7102,7.262,Italy,Milan,45.4642,9.19,360,223.69
+Italy,Milan,45.4642,9.19,France,Nice,43.7102,7.262,360,223.69
+France,Lyon,45.764,4.8357,Italy,Turin,45.0703,7.6869,355,220.59
+Italy,Turin,45.0703,7.6869,France,Lyon,45.764,4.8357,355,220.59
+Czech Republic,Prague,50.0755,14.4378,Germany,Berlin,52.52,13.405,354,219.97
+Germany,Berlin,52.52,13.405,Czech Republic,Prague,50.0755,14.4378,354,219.97
+France,Calais,50.9513,1.8587,Netherlands,The Hague,52.0705,4.3007,352,218.72
+Netherlands,The Hague,52.0705,4.3007,France,Calais,50.9513,1.8587,352,218.72
+Germany,Stuttgart,48.7758,9.1829,Switzerland,Bern,46.9481,7.4474,350,217.48
+Switzerland,Bern,46.9481,7.4474,Germany,Stuttgart,48.7758,9.1829,350,217.48
+Italy,Milan,45.4642,9.19,Switzerland,Bern,46.9481,7.4474,347,215.62
+Switzerland,Bern,46.9481,7.4474,Italy,Milan,45.4642,9.19,347,215.62
+Belgium,Antwerp,51.2194,4.4025,France,Paris,48.8566,2.3522,340,211.27
+France,Paris,48.8566,2.3522,Belgium,Antwerp,51.2194,4.4025,340,211.27
+Belgium,Antwerp,51.2194,4.4025,United Kingdom,London,51.5074,-0.1278,337,209.40
+United Kingdom,London,51.5074,-0.1278,Belgium,Antwerp,51.2194,4.4025,337,209.40
+Belgium,Brussels,50.8503,4.3517,United Kingdom,London,51.5074,-0.1278,328,203.81
+France,Lyon,45.764,4.8357,France,Marseille,43.2965,5.3698,328,203.81
+France,Marseille,43.2965,5.3698,France,Lyon,45.764,4.8357,328,203.81
+United Kingdom,London,51.5074,-0.1278,Belgium,Brussels,50.8503,4.3517,328,203.81
+Germany,Stuttgart,48.7758,9.1829,Luxembourg,Luxembourg,49.6117,6.1319,322,200.08
+Luxembourg,Luxembourg,49.6117,6.1319,Germany,Stuttgart,48.7758,9.1829,322,200.08
+Denmark,Copenhagen,55.6761,12.5683,Germany,Hamburg,53.5511,9.9937,321,199.46
+Germany,Hamburg,53.5511,9.9937,Denmark,Copenhagen,55.6761,12.5683,321,199.46
+France,Lyon,45.764,4.8357,Switzerland,Bern,46.9481,7.4474,317,196.97
+Switzerland,Bern,46.9481,7.4474,France,Lyon,45.764,4.8357,317,196.97
+Germany,Munich,48.1351,11.582,Switzerland,Zurich,47.3769,8.5417,313,194.49
+Switzerland,Zurich,47.3769,8.5417,Germany,Munich,48.1351,11.582,313,194.49
+Austria,Vienna,48.2082,16.3738,Czech Republic,Prague,50.0755,14.4378,312,193.87
+Czech Republic,Prague,50.0755,14.4378,Austria,Vienna,48.2082,16.3738,312,193.87
+Italy,Turin,45.0703,7.6869,Switzerland,Bern,46.9481,7.4474,312,193.87
+Switzerland,Bern,46.9481,7.4474,Italy,Turin,45.0703,7.6869,312,193.87
+France,Calais,50.9513,1.8587,Netherlands,Rotterdam,51.9225,4.4792,311,193.25
+Netherlands,Rotterdam,51.9225,4.4792,France,Calais,50.9513,1.8587,311,193.25
+Italy,Milan,45.4642,9.19,Switzerland,Zurich,47.3769,8.5417,305,189.52
+Switzerland,Zurich,47.3769,8.5417,Italy,Milan,45.4642,9.19,305,189.52
+Italy,Turin,45.0703,7.6869,Switzerland,Geneva,46.2044,6.1432,304,188.90
+Switzerland,Geneva,46.2044,6.1432,Italy,Turin,45.0703,7.6869,304,188.90
+Italy,Milan,45.4642,9.19,Italy,Venice,45.4408,12.3155,295,183.30
+Italy,Venice,45.4408,12.3155,Italy,Milan,45.4642,9.19,295,183.30
+Belgium,Brussels,50.8503,4.3517,France,Paris,48.8566,2.3522,294,182.68
+France,Paris,48.8566,2.3522,Belgium,Brussels,50.8503,4.3517,294,182.68
+Germany,Berlin,52.52,13.405,Germany,Hamburg,53.5511,9.9937,291,180.82
+Germany,Hamburg,53.5511,9.9937,Germany,Berlin,52.52,13.405,291,180.82
+France,Calais,50.9513,1.8587,France,Le Havre,49.4944,0.1079,284,176.47
+France,Le Havre,49.4944,0.1079,France,Calais,50.9513,1.8587,284,176.47
+Germany,Cologne,50.9375,6.9603,Netherlands,The Hague,52.0705,4.3007,283,175.85
+Netherlands,The Hague,52.0705,4.3007,Germany,Cologne,50.9375,6.9603,283,175.85
+Belgium,Antwerp,51.2194,4.4025,Luxembourg,Luxembourg,49.6117,6.1319,280,173.98
+Germany,Cologne,50.9375,6.9603,Netherlands,Amsterdam,52.3676,4.9041,280,173.98
+Luxembourg,Luxembourg,49.6117,6.1319,Belgium,Antwerp,51.2194,4.4025,280,173.98
+Netherlands,Amsterdam,52.3676,4.9041,Germany,Cologne,50.9375,6.9603,280,173.98
+Switzerland,Geneva,46.2044,6.1432,Switzerland,Zurich,47.3769,8.5417,278,172.74
+Switzerland,Zurich,47.3769,8.5417,Switzerland,Geneva,46.2044,6.1432,278,172.74
+France,Calais,50.9513,1.8587,France,Paris,48.8566,2.3522,274,170.26
+France,Paris,48.8566,2.3522,France,Calais,50.9513,1.8587,274,170.26
+Germany,Cologne,50.9375,6.9603,Netherlands,Rotterdam,51.9225,4.4792,254,157.83
+Netherlands,Rotterdam,51.9225,4.4792,Germany,Cologne,50.9375,6.9603,254,157.83
+Germany,Frankfurt,50.1109,8.6821,Luxembourg,Luxembourg,49.6117,6.1319,249,154.72
+Luxembourg,Luxembourg,49.6117,6.1319,Germany,Frankfurt,50.1109,8.6821,249,154.72
+Belgium,Antwerp,51.2194,4.4025,Germany,Cologne,50.9375,6.9603,237,147.26
+Germany,Cologne,50.9375,6.9603,Belgium,Antwerp,51.2194,4.4025,237,147.26
+Belgium,Brussels,50.8503,4.3517,Luxembourg,Luxembourg,49.6117,6.1319,233,144.78
+Italy,Naples,40.8518,14.2681,Italy,Rome,41.9028,12.4964,233,144.78
+Italy,Rome,41.9028,12.4964,Italy,Naples,40.8518,14.2681,233,144.78
+Luxembourg,Luxembourg,49.6117,6.1319,Belgium,Brussels,50.8503,4.3517,233,144.78
+France,Strasbourg,48.5734,7.7521,Switzerland,Bern,46.9481,7.4474,232,144.16
+Switzerland,Bern,46.9481,7.4474,France,Strasbourg,48.5734,7.7521,232,144.16
+France,Marseille,43.2965,5.3698,France,Nice,43.7102,7.262,227,141.05
+France,Nice,43.7102,7.262,France,Marseille,43.2965,5.3698,227,141.05
+Germany,Stuttgart,48.7758,9.1829,Switzerland,Zurich,47.3769,8.5417,227,141.05
+Switzerland,Zurich,47.3769,8.5417,Germany,Stuttgart,48.7758,9.1829,227,141.05
+France,Strasbourg,48.5734,7.7521,Luxembourg,Luxembourg,49.6117,6.1319,220,136.70
+Luxembourg,Luxembourg,49.6117,6.1319,France,Strasbourg,48.5734,7.7521,220,136.70
+Belgium,Brussels,50.8503,4.3517,Germany,Cologne,50.9375,6.9603,219,136.08
+Germany,Cologne,50.9375,6.9603,Belgium,Brussels,50.8503,4.3517,219,136.08
+France,Strasbourg,48.5734,7.7521,Switzerland,Zurich,47.3769,8.5417,218,135.46
+Germany,Munich,48.1351,11.582,Germany,Stuttgart,48.7758,9.1829,218,135.46
+Germany,Stuttgart,48.7758,9.1829,Germany,Munich,48.1351,11.582,218,135.46
+Switzerland,Zurich,47.3769,8.5417,France,Strasbourg,48.5734,7.7521,218,135.46
+Belgium,Brussels,50.8503,4.3517,France,Calais,50.9513,1.8587,212,131.73
+France,Calais,50.9513,1.8587,Belgium,Brussels,50.8503,4.3517,212,131.73
+France,Strasbourg,48.5734,7.7521,Germany,Frankfurt,50.1109,8.6821,212,131.73
+Germany,Frankfurt,50.1109,8.6821,France,Strasbourg,48.5734,7.7521,212,131.73
+Belgium,Antwerp,51.2194,4.4025,France,Calais,50.9513,1.8587,211,131.11
+France,Calais,50.9513,1.8587,Belgium,Antwerp,51.2194,4.4025,211,131.11
+France,Le Havre,49.4944,0.1079,France,Paris,48.8566,2.3522,211,131.11
+France,Paris,48.8566,2.3522,France,Le Havre,49.4944,0.1079,211,131.11
+Belgium,Brussels,50.8503,4.3517,Netherlands,Amsterdam,52.3676,4.9041,209,129.87
+Netherlands,Amsterdam,52.3676,4.9041,Belgium,Brussels,50.8503,4.3517,209,129.87
+France,Nice,43.7102,7.262,Italy,Turin,45.0703,7.6869,207,128.62
+Italy,Turin,45.0703,7.6869,France,Nice,43.7102,7.262,207,128.62
+Germany,Frankfurt,50.1109,8.6821,Germany,Stuttgart,48.7758,9.1829,205,127.38
+Germany,Stuttgart,48.7758,9.1829,Germany,Frankfurt,50.1109,8.6821,205,127.38
+France,Nice,43.7102,7.262,Italy,Genoa,44.4056,8.9463,204,126.76
+Italy,Genoa,44.4056,8.9463,France,Nice,43.7102,7.262,204,126.76
+Germany,Cologne,50.9375,6.9603,Luxembourg,Luxembourg,49.6117,6.1319,195,121.17
+Luxembourg,Luxembourg,49.6117,6.1319,Germany,Cologne,50.9375,6.9603,195,121.17
+Germany,Cologne,50.9375,6.9603,Germany,Frankfurt,50.1109,8.6821,190,118.06
+Germany,Frankfurt,50.1109,8.6821,Germany,Cologne,50.9375,6.9603,190,118.06
+Italy,Genoa,44.4056,8.9463,Italy,Turin,45.0703,7.6869,186,115.58
+Italy,Turin,45.0703,7.6869,Italy,Genoa,44.4056,8.9463,186,115.58
+Belgium,Brussels,50.8503,4.3517,Netherlands,The Hague,52.0705,4.3007,170,105.63
+Netherlands,The Hague,52.0705,4.3007,Belgium,Brussels,50.8503,4.3517,170,105.63
+France,Strasbourg,48.5734,7.7521,Germany,Stuttgart,48.7758,9.1829,165,102.53
+Germany,Stuttgart,48.7758,9.1829,France,Strasbourg,48.5734,7.7521,165,102.53
+France,Lyon,45.764,4.8357,Switzerland,Geneva,46.2044,6.1432,162,100.66
+Switzerland,Geneva,46.2044,6.1432,France,Lyon,45.764,4.8357,162,100.66
+Belgium,Antwerp,51.2194,4.4025,Netherlands,Amsterdam,52.3676,4.9041,160,99.42
+Netherlands,Amsterdam,52.3676,4.9041,Belgium,Antwerp,51.2194,4.4025,160,99.42
+Italy,Genoa,44.4056,8.9463,Italy,Milan,45.4642,9.19,156,96.93
+Italy,Milan,45.4642,9.19,Italy,Genoa,44.4056,8.9463,156,96.93
+Switzerland,Bern,46.9481,7.4474,Switzerland,Geneva,46.2044,6.1432,155,96.31
+Switzerland,Geneva,46.2044,6.1432,Switzerland,Bern,46.9481,7.4474,155,96.31
+Belgium,Brussels,50.8503,4.3517,Netherlands,Rotterdam,51.9225,4.4792,146,90.72
+Netherlands,Rotterdam,51.9225,4.4792,Belgium,Brussels,50.8503,4.3517,146,90.72
+Belgium,Antwerp,51.2194,4.4025,Netherlands,The Hague,52.0705,4.3007,139,86.37
+Italy,Milan,45.4642,9.19,Italy,Turin,45.0703,7.6869,139,86.37
+Italy,Turin,45.0703,7.6869,Italy,Milan,45.4642,9.19,139,86.37
+Netherlands,The Hague,52.0705,4.3007,Belgium,Antwerp,51.2194,4.4025,139,86.37
+France,Calais,50.9513,1.8587,United Kingdom,London,51.5074,-0.1278,123,76.43
+Switzerland,Bern,46.9481,7.4474,Switzerland,Zurich,47.3769,8.5417,123,76.43
+Switzerland,Zurich,47.3769,8.5417,Switzerland,Bern,46.9481,7.4474,123,76.43
+United Kingdom,London,51.5074,-0.1278,France,Calais,50.9513,1.8587,123,76.43
+Belgium,Antwerp,51.2194,4.4025,Netherlands,Rotterdam,51.9225,4.4792,100,62.14
+Netherlands,Rotterdam,51.9225,4.4792,Belgium,Antwerp,51.2194,4.4025,100,62.14
+Netherlands,Amsterdam,52.3676,4.9041,Netherlands,Rotterdam,51.9225,4.4792,80,49.71
+Netherlands,Rotterdam,51.9225,4.4792,Netherlands,Amsterdam,52.3676,4.9041,80,49.71
+Netherlands,Amsterdam,52.3676,4.9041,Netherlands,The Hague,52.0705,4.3007,56,34.80
+Netherlands,The Hague,52.0705,4.3007,Netherlands,Amsterdam,52.3676,4.9041,56,34.80
+Netherlands,Rotterdam,51.9225,4.4792,Netherlands,The Hague,52.0705,4.3007,47,29.20
+Netherlands,The Hague,52.0705,4.3007,Netherlands,Rotterdam,51.9225,4.4792,47,29.20
+Belgium,Antwerp,51.2194,4.4025,Belgium,Brussels,50.8503,4.3517,46,28.58
+Belgium,Brussels,50.8503,4.3517,Belgium,Antwerp,51.2194,4.4025,46,28.58
