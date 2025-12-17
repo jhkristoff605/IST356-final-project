@@ -1,14 +1,13 @@
 import time
 from typing import Dict, List, Tuple
-
+import os
 import pandas as pd
 import streamlit as st
 import folium
 from streamlit_folium import st_folium
 import googlemaps
 
-API_KEY = "AIzaSyCTYnU0WUrcYaSe7I2a37Z4XD56-wrhj60"
-
+API_KEY = os.environ["GMAPS_KEY"]
 CATEGORIES: Dict[str, str] = {
     "Landmarks / Attractions": "tourist_attraction",
     "Museums": "museum",
