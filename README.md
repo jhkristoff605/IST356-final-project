@@ -10,3 +10,4 @@ The packages necessary to run the code here are found in `requirements.txt` inst
 1. From VS Code, open a terminal: menu => Terminal => New Terminal
 2. In the terminal, enter `uv pip install -r requirements.txt`
 3. Alternatively `uv pip install --system -r requirements.txt`
+4. for mac users  `uv pip install -r requirements.txt --system --python=3.11`
