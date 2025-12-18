@@ -110,7 +110,6 @@ def test_get_origin_rows_filters_correctly(sample_df):
     assert len(rows) == 1
     assert rows.iloc[0]["City_to"] == "Amsterdam"
 
-
 def test_pick_start_stop_returns_coordinates(sample_df):
     df2 = normalize_text_cols(sample_df)
     start = pick_start_stop(df2, "France", "Paris")
@@ -120,12 +119,10 @@ def test_pick_start_stop_returns_coordinates(sample_df):
     assert abs(start.lat - 48.8566) < 1e-6
     assert abs(start.lon - 2.3522) < 1e-6
 
-
 def test_pick_start_stop_raises_if_missing(sample_df):
     df2 = normalize_text_cols(sample_df)
     with pytest.raises(ValueError):
         pick_start_stop(df2, "Italy", "Rome")
-
 
 def test_get_leg_candidates_returns_outbound_rows(sample_df):
     df2 = normalize_text_cols(sample_df)
@@ -134,14 +131,12 @@ def test_get_leg_candidates_returns_outbound_rows(sample_df):
     assert len(legs) == 1
     assert legs.iloc[0]["Country_to"] == "Netherlands"
 
-
 def test_select_leg_row_finds_specific_destination(sample_df):
     df2 = normalize_text_cols(sample_df)
     origin = pick_start_stop(df2, "France", "Paris")
     legs = get_leg_candidates(df2, origin)
     row = select_leg_row(legs, "Netherlands", "Amsterdam")
     assert row["Distance_km"] == 507.0
-
 
 def test_select_leg_row_raises_if_not_found(sample_df):
     df2 = normalize_text_cols(sample_df)

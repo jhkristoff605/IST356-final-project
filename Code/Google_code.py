@@ -7,8 +7,7 @@ import folium
 from streamlit_folium import st_folium
 import googlemaps
 # =====================================================
-API_KEY = os.environ["GMAPS_KEY"]
-
+API_KEY= "AIzaSyCTYnU0WUrcYaSe7I2a37Z4XD56-wrhj60"
 CATEGORIES: Dict[str, str] = {
     "Landmarks / Attractions": "tourist_attraction",
     "Museums": "museum",
@@ -16,14 +15,11 @@ CATEGORIES: Dict[str, str] = {
     "Restaurants": "restaurant",
     "Cafes": "cafe",
 }
-
 st.set_page_config(page_title="City Explorer", layout="wide")
 st.title("City Explorer")
-
 @st.cache_resource
 def get_gmaps_client() -> googlemaps.Client:
     return googlemaps.Client(key=API_KEY)
-
 def geocode_city(city_name: str) -> Tuple[float, float, str]:
     gmaps = get_gmaps_client()
     res = gmaps.geocode(city_name)
@@ -94,18 +90,14 @@ def build_map(
             if rating is not None:
                 popup += f"Rating: {rating}<br/>"
             popup += address
-
             folium.Marker(
                 (loc["lat"], loc["lng"]),
                 tooltip=name,
                 popup=popup,
             ).add_to(layer)
-
         layer.add_to(m)
-
     folium.LayerControl(collapsed=False).add_to(m)
     return m
-
 def places_to_dataframe(categorized_places: Dict[str, List[dict]]) -> pd.DataFrame:
     rows = []
     for category, places in categorized_places.items():
@@ -144,30 +136,24 @@ with st.sidebar:
     )
     radius = st.slider("Search radius (meters)", 1000, 20000, 8000, step=500)
     pages = st.slider("Pages per category", 1, 3, 2)
-
     run_search = st.button("Find places", type="primary")
     clear_results = st.button("Clear results")
     clear_saved = st.button("Clear saved places")
-
     st.divider()
     end_btn = st.button("End (Preview saved)", type="secondary")
 if clear_results:
     for key in ["categorized_results", "results_df", "meta"]:
         st.session_state.pop(key, None)
-
 if clear_saved:
     st.session_state["saved_places"] = st.session_state["saved_places"].iloc[0:0]
     st.session_state["end_mode"] = False
-
 if end_btn:
     st.session_state["end_mode"] = True
 if run_search:
     st.session_state["end_mode"] = False  # leaving preview mode if they search again
-
     if not selected_categories:
         st.warning("Please select at least one category.")
         st.stop()
-
     try:
         with st.spinner("Searching for places..."):
             lat, lng, formatted_city = geocode_city(city)
@@ -189,7 +175,6 @@ if run_search:
                 "lat": lat,
                 "lng": lng,
             }
-
     except Exception as e:
         st.error(str(e))
         st.stop()
