@@ -241,3 +241,4 @@ def test_build_map_returns_folium_map(google_app):
     }
     m = google_app.build_map("Test City", (0.0, 0.0), categorized)
     assert m.__class__.__name__ == "Map"
+    
