@@ -18,7 +18,6 @@ class Stop:
     city: str
     lat: float
     lon: float
-
     @property
     def coun_(self) -> str:
         return self.country
