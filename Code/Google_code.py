@@ -23,14 +23,11 @@ def get_gmaps_client() -> googlemaps.Client:
 def geocode_city(city_name: str) -> Tuple[float, float, str]:
     gmaps = get_gmaps_client()
     res = gmaps.geocode(city_name)
-
     if not res:
         raise ValueError(f"Could not geocode city: {city_name}")
-
     loc = res[0]["geometry"]["location"]
     formatted = res[0].get("formatted_address", city_name)
     return float(loc["lat"]), float(loc["lng"]), formatted
-
 def fetch_nearby(
     lat: float,
     lng: float,
@@ -41,7 +38,6 @@ def fetch_nearby(
     gmaps = get_gmaps_client()
     results: List[dict] = []
     page_token = None
-
     for _ in range(max_pages):
         response = gmaps.places_nearby(
             location=(lat, lng),
@@ -49,17 +45,12 @@ def fetch_nearby(
             type=place_type,
             page_token=page_token,
         )
-
         results.extend(response.get("results", []))
         page_token = response.get("next_page_token")
-
         if not page_token:
             break
-
         time.sleep(2)  # required delay for pagination token
-
     return results
-
 def build_map(
     city_label: str,
     center: Tuple[float, float],
@@ -73,19 +64,15 @@ def build_map(
         tooltip=f"{city_label} (center)",
         popup=city_label,
     ).add_to(m)
-
     for category, places in categorized_places.items():
         layer = folium.FeatureGroup(name=category, show=True)
-
         for p in places:
             loc = p.get("geometry", {}).get("location", {})
             if "lat" not in loc or "lng" not in loc:
                 continue
-
             name = p.get("name", "Unknown")
             rating = p.get("rating")
             address = p.get("vicinity", "")
-
             popup = f"<b>{name}</b><br/>"
             if rating is not None:
                 popup += f"Rating: {rating}<br/>"
@@ -113,7 +100,6 @@ def places_to_dataframe(categorized_places: Dict[str, List[dict]]) -> pd.DataFra
                 "lng": loc.get("lng"),
                 "place_id": p.get("place_id"),
             })
-
     df = pd.DataFrame(rows)
     if "place_id" in df.columns:
         df = df.drop_duplicates(subset="place_id")
@@ -194,7 +180,6 @@ if st.session_state["end_mode"]:
             file_name="saved_places.csv",
             mime="text/csv",
         )
-
     st.divider()
     st.button("Back to search/results", on_click=lambda: st.session_state.update({"end_mode": False}))
     st.stop()

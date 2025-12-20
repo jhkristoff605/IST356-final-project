@@ -4,13 +4,9 @@ import types
 import importlib
 import pytest
 import pandas as pd
-
 from pathlib import Path
 import importlib.util
 
-# ----------------------------
-# Minimal fakes so importing Streamlit app won't run UI
-# ----------------------------
 class _DummyCtx:
     def __enter__(self): return self
     def __exit__(self, exc_type, exc, tb): return False
@@ -143,10 +139,6 @@ def sample_places_pages():
         ]}
     ]
 
-
-# ----------------------------
-# Tests (same style as your teammate)
-# ----------------------------
 def test_geocode_city_success(google_app, monkeypatch, sample_geocode_response):
     class FakeGmaps:
         def geocode(self, city_name):

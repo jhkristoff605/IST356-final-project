@@ -7,7 +7,7 @@ CSV = "Files/Euro_city.csv"
 COLS = ["Country_from","City_from","Lat_from","Long_from",
         "Country_to","City_to","Lat_to","Long_to","Distance_km","Distance_mi"]
 st.set_page_config(page_title="Euro Route Picker + Map", layout="wide")
-st.title("Euro Route Picker (Chained) + Folium Map")
+st.title("European Route Picker+ Folium Map")
 @st.cache_data
 def load_df():
     df = pd.read_csv(CSV)
@@ -84,7 +84,7 @@ if ss.origin is None:
 
     st.stop()
 
-# ---------- ROUTE PICKING (chained) ----------
+# ---------- ROUTE PICKING----------
 origin = ss.origin
 st.info(f"Current start: **{origin['city']}, {origin['country']}**")
 
@@ -94,9 +94,7 @@ if leg_df.empty:
     if st.button("Reset"):
         reset(); st.rerun()
     st.stop()
-
 st.subheader("Step 2: Add next destination(s)")
-
 ct = st.selectbox("Country_to", sorted(leg_df.Country_to.unique()), index=None, placeholder="Select a destination country")
 if ct:
     ct_df = leg_df[leg_df.Country_to == ct]

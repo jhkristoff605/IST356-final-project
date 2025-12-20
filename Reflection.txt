@@ -1,0 +1,24 @@
+Reflection: Jordan Kristoff and Tejasdeep Vempa
+
+This project was developed as a practical application of the concepts learned throughout the course, with a 
+strong emphasis on usability, clarity, and real-world relevance. A central objective of the course was to design 
+code that could be understood, reused, and interacted with by others, rather than functioning solely as a static 
+script. To support this goal, the project was implemented as a web-based application using Streamlit, which enabled 
+an intuitive and interactive user interface. By presenting the code through a live application, the project 
+transformed abstract programming concepts into a tangible tool that users could actively explore, test, and learn 
+from.
+
+The application itself was structured around two complementary components that mirror common travel-planning 
+workflows. The first component focused on route creation, allowing users to select multiple European cities and 
+dynamically build a travel itinerary. Once the route was finalized, the application generated an interactive map 
+visualizing the full journey and calculated distances between destinations. A downloadable CSV file was also produced, 
+giving users the ability to save, review, or further analyze their itinerary outside of the application. This portion 
+of the project reinforced skills related to data handling, geographic visualization, and user-driven logic.
+
+The second component emphasized in-city exploration and personalization. Users could search within a chosen city and
+apply category-based filters—such as restaurants, landmarks, or attractions—to dynamically update the map with 
+relevant points of interest. The ability to save selected locations and export them as a downloadable file allowed 
+users to experiment with different combinations and tailor results to their individual preferences. Overall, this 
+project demonstrated how coding principles can be applied to create an end-to-end, user-focused application that 
+integrates interactivity, data visualization, and practical utility, reinforcing both technical proficiency and 
+thoughtful software design.
