@@ -6,7 +6,11 @@ code that could be understood, reused, and interacted with by others, rather tha
 script. To support this goal, the project was implemented as a web-based application using Streamlit, which enabled 
 an intuitive and interactive user interface. By presenting the code through a live application, the project 
 transformed abstract programming concepts into a tangible tool that users could actively explore, test, and learn 
-from.
+from. For each format, there is a testing and design to ensure that the functions could work its own.
+
+Important note: we decided to keep the two parts seperate due to the fact that thy
+
+
 
 The application itself was structured around two complementary components that mirror common travel-planning 
 workflows. The first component focused on route creation, allowing users to select multiple European cities and 

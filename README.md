@@ -12,7 +12,11 @@ This project was developed as part of an academic assignment by a student at Syr
 
 This project was made by Jordan Kristoff and Tejas Vempadeep.
 
+If your content code is updated, here's how you get it in VS Code:
 
+1. Open your Terminal in VS Code: menu => Terminal => New Terminal
+2. In the terminal, enter the command: `git fetch --all` to download the latest updates.
+3. Next in the terminal, enter the command: `git reset --hard origin/main` to merge the changes into your local repository and force your working directory to match the update.
 
 ### Requirements
 
